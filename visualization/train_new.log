@@ -1,0 +1,1634 @@
+2023-11-03 10:03:55 INFO     Saving logs in: /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:03:55 INFO     	 (14541, 474, 14541)
+2023-11-03 10:03:56 INFO     Total number of parameters 1280230
+2023-11-03 10:03:56 INFO     	 Start training
+2023-11-03 10:04:17 INFO     	 Epoch 0 | average train loss: 0.1271
+2023-11-03 10:04:17 INFO     	 Epoch 0 | average valid loss: 0.0112
+2023-11-03 10:04:37 INFO     	 Epoch 1 | average train loss: 0.0723
+2023-11-03 10:04:37 INFO     	 Epoch 1 | average valid loss: 0.0096
+2023-11-03 10:04:57 INFO     	 Epoch 2 | average train loss: 0.0637
+2023-11-03 10:04:57 INFO     	 Epoch 2 | average valid loss: 0.0089
+2023-11-03 10:05:17 INFO     	 Epoch 3 | average train loss: 0.0593
+2023-11-03 10:05:17 INFO     	 Epoch 3 | average valid loss: 0.0085
+2023-11-03 10:05:37 INFO     	 Epoch 4 | average train loss: 0.0566
+2023-11-03 10:05:37 INFO     	 Epoch 4 | average valid loss: 0.0083
+2023-11-03 10:05:48 INFO     global:	 valid MR: 235.48 | MRR: 0.275 | H@1: 0.195 | H@3: 0.299 | H@10: 0.435
+2023-11-03 10:05:48 INFO     local: 	 valid MR: 251.99 | MRR: 0.271 | H@1: 0.193 | H@3: 0.294 | H@10: 0.429
+2023-11-03 10:05:48 INFO     both:  	 valid MR: 233.60 | MRR: 0.278 | H@1: 0.199 | H@3: 0.303 | H@10: 0.436
+2023-11-03 10:05:48 INFO     global:	 test MR: 245.67 | MRR: 0.272 | H@1: 0.192 | H@3: 0.296 | H@10: 0.431
+2023-11-03 10:05:48 INFO     local: 	 test MR: 262.19 | MRR: 0.267 | H@1: 0.189 | H@3: 0.289 | H@10: 0.423
+2023-11-03 10:05:48 INFO     both:  	 test MR: 242.79 | MRR: 0.275 | H@1: 0.195 | H@3: 0.298 | H@10: 0.432
+2023-11-03 10:05:48 INFO     	 Saving model at epoch 4 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:06:08 INFO     	 Epoch 5 | average train loss: 0.0546
+2023-11-03 10:06:08 INFO     	 Epoch 5 | average valid loss: 0.0081
+2023-11-03 10:06:28 INFO     	 Epoch 6 | average train loss: 0.0531
+2023-11-03 10:06:28 INFO     	 Epoch 6 | average valid loss: 0.0079
+2023-11-03 10:06:47 INFO     	 Epoch 7 | average train loss: 0.0519
+2023-11-03 10:06:48 INFO     	 Epoch 7 | average valid loss: 0.0079
+2023-11-03 10:07:07 INFO     	 Epoch 8 | average train loss: 0.0508
+2023-11-03 10:07:08 INFO     	 Epoch 8 | average valid loss: 0.0078
+2023-11-03 10:07:27 INFO     	 Epoch 9 | average train loss: 0.0499
+2023-11-03 10:07:27 INFO     	 Epoch 9 | average valid loss: 0.0078
+2023-11-03 10:07:39 INFO     global:	 valid MR: 200.78 | MRR: 0.291 | H@1: 0.208 | H@3: 0.316 | H@10: 0.457
+2023-11-03 10:07:39 INFO     local: 	 valid MR: 216.34 | MRR: 0.286 | H@1: 0.204 | H@3: 0.312 | H@10: 0.452
+2023-11-03 10:07:39 INFO     both:  	 valid MR: 198.26 | MRR: 0.294 | H@1: 0.211 | H@3: 0.321 | H@10: 0.462
+2023-11-03 10:07:39 INFO     global:	 test MR: 211.30 | MRR: 0.290 | H@1: 0.208 | H@3: 0.313 | H@10: 0.456
+2023-11-03 10:07:39 INFO     local: 	 test MR: 225.74 | MRR: 0.282 | H@1: 0.199 | H@3: 0.308 | H@10: 0.449
+2023-11-03 10:07:39 INFO     both:  	 test MR: 207.66 | MRR: 0.293 | H@1: 0.211 | H@3: 0.317 | H@10: 0.460
+2023-11-03 10:07:39 INFO     	 Saving model at epoch 9 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:07:59 INFO     	 Epoch 10 | average train loss: 0.0491
+2023-11-03 10:07:59 INFO     	 Epoch 10 | average valid loss: 0.0078
+2023-11-03 10:08:19 INFO     	 Epoch 11 | average train loss: 0.0484
+2023-11-03 10:08:19 INFO     	 Epoch 11 | average valid loss: 0.0077
+2023-11-03 10:08:38 INFO     	 Epoch 12 | average train loss: 0.0477
+2023-11-03 10:08:39 INFO     	 Epoch 12 | average valid loss: 0.0075
+2023-11-03 10:08:58 INFO     	 Epoch 13 | average train loss: 0.0472
+2023-11-03 10:08:58 INFO     	 Epoch 13 | average valid loss: 0.0076
+2023-11-03 10:09:18 INFO     	 Epoch 14 | average train loss: 0.0466
+2023-11-03 10:09:18 INFO     	 Epoch 14 | average valid loss: 0.0077
+2023-11-03 10:09:30 INFO     global:	 valid MR: 187.04 | MRR: 0.300 | H@1: 0.215 | H@3: 0.325 | H@10: 0.469
+2023-11-03 10:09:30 INFO     local: 	 valid MR: 198.63 | MRR: 0.296 | H@1: 0.212 | H@3: 0.321 | H@10: 0.465
+2023-11-03 10:09:30 INFO     both:  	 valid MR: 182.51 | MRR: 0.305 | H@1: 0.221 | H@3: 0.330 | H@10: 0.477
+2023-11-03 10:09:30 INFO     global:	 test MR: 197.24 | MRR: 0.298 | H@1: 0.214 | H@3: 0.323 | H@10: 0.469
+2023-11-03 10:09:30 INFO     local: 	 test MR: 208.07 | MRR: 0.292 | H@1: 0.208 | H@3: 0.319 | H@10: 0.463
+2023-11-03 10:09:30 INFO     both:  	 test MR: 191.76 | MRR: 0.303 | H@1: 0.218 | H@3: 0.328 | H@10: 0.474
+2023-11-03 10:09:30 INFO     	 Saving model at epoch 14 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:09:50 INFO     	 Epoch 15 | average train loss: 0.0461
+2023-11-03 10:09:50 INFO     	 Epoch 15 | average valid loss: 0.0076
+2023-11-03 10:10:10 INFO     	 Epoch 16 | average train loss: 0.0457
+2023-11-03 10:10:10 INFO     	 Epoch 16 | average valid loss: 0.0075
+2023-11-03 10:10:31 INFO     	 Epoch 17 | average train loss: 0.0453
+2023-11-03 10:10:31 INFO     	 Epoch 17 | average valid loss: 0.0075
+2023-11-03 10:10:51 INFO     	 Epoch 18 | average train loss: 0.0449
+2023-11-03 10:10:51 INFO     	 Epoch 18 | average valid loss: 0.0076
+2023-11-03 10:11:10 INFO     	 Epoch 19 | average train loss: 0.0445
+2023-11-03 10:11:11 INFO     	 Epoch 19 | average valid loss: 0.0074
+2023-11-03 10:11:23 INFO     global:	 valid MR: 181.01 | MRR: 0.305 | H@1: 0.219 | H@3: 0.332 | H@10: 0.476
+2023-11-03 10:11:23 INFO     local: 	 valid MR: 191.65 | MRR: 0.301 | H@1: 0.216 | H@3: 0.328 | H@10: 0.475
+2023-11-03 10:11:23 INFO     both:  	 valid MR: 175.70 | MRR: 0.311 | H@1: 0.225 | H@3: 0.337 | H@10: 0.484
+2023-11-03 10:11:23 INFO     global:	 test MR: 191.22 | MRR: 0.303 | H@1: 0.219 | H@3: 0.328 | H@10: 0.476
+2023-11-03 10:11:23 INFO     local: 	 test MR: 201.79 | MRR: 0.298 | H@1: 0.212 | H@3: 0.325 | H@10: 0.470
+2023-11-03 10:11:23 INFO     both:  	 test MR: 185.25 | MRR: 0.307 | H@1: 0.222 | H@3: 0.334 | H@10: 0.484
+2023-11-03 10:11:23 INFO     	 Saving model at epoch 19 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:11:43 INFO     	 Epoch 20 | average train loss: 0.0442
+2023-11-03 10:11:43 INFO     	 Epoch 20 | average valid loss: 0.0073
+2023-11-03 10:12:02 INFO     	 Epoch 21 | average train loss: 0.0438
+2023-11-03 10:12:03 INFO     	 Epoch 21 | average valid loss: 0.0074
+2023-11-03 10:12:23 INFO     	 Epoch 22 | average train loss: 0.0435
+2023-11-03 10:12:23 INFO     	 Epoch 22 | average valid loss: 0.0074
+2023-11-03 10:12:42 INFO     	 Epoch 23 | average train loss: 0.0432
+2023-11-03 10:12:43 INFO     	 Epoch 23 | average valid loss: 0.0074
+2023-11-03 10:13:02 INFO     	 Epoch 24 | average train loss: 0.0430
+2023-11-03 10:13:03 INFO     	 Epoch 24 | average valid loss: 0.0074
+2023-11-03 10:13:15 INFO     global:	 valid MR: 174.73 | MRR: 0.307 | H@1: 0.220 | H@3: 0.334 | H@10: 0.481
+2023-11-03 10:13:15 INFO     local: 	 valid MR: 182.67 | MRR: 0.303 | H@1: 0.215 | H@3: 0.331 | H@10: 0.479
+2023-11-03 10:13:15 INFO     both:  	 valid MR: 167.89 | MRR: 0.314 | H@1: 0.227 | H@3: 0.342 | H@10: 0.490
+2023-11-03 10:13:15 INFO     global:	 test MR: 185.00 | MRR: 0.306 | H@1: 0.220 | H@3: 0.331 | H@10: 0.482
+2023-11-03 10:13:15 INFO     local: 	 test MR: 193.00 | MRR: 0.301 | H@1: 0.213 | H@3: 0.329 | H@10: 0.478
+2023-11-03 10:13:15 INFO     both:  	 test MR: 177.61 | MRR: 0.311 | H@1: 0.223 | H@3: 0.339 | H@10: 0.489
+2023-11-03 10:13:15 INFO     	 Saving model at epoch 24 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:13:38 INFO     	 Epoch 25 | average train loss: 0.0606
+2023-11-03 10:13:39 INFO     	 Epoch 25 | average valid loss: 0.0500
+2023-11-03 10:14:02 INFO     	 Epoch 26 | average train loss: 0.0572
+2023-11-03 10:14:02 INFO     	 Epoch 26 | average valid loss: 0.0473
+2023-11-03 10:14:26 INFO     	 Epoch 27 | average train loss: 0.0558
+2023-11-03 10:14:26 INFO     	 Epoch 27 | average valid loss: 0.0449
+2023-11-03 10:14:50 INFO     	 Epoch 28 | average train loss: 0.0549
+2023-11-03 10:14:51 INFO     	 Epoch 28 | average valid loss: 0.0447
+2023-11-03 10:15:14 INFO     	 Epoch 29 | average train loss: 0.0542
+2023-11-03 10:15:15 INFO     	 Epoch 29 | average valid loss: 0.0436
+2023-11-03 10:15:27 INFO     global:	 valid MR: 167.64 | MRR: 0.309 | H@1: 0.222 | H@3: 0.335 | H@10: 0.487
+2023-11-03 10:15:27 INFO     local: 	 valid MR: 173.83 | MRR: 0.306 | H@1: 0.218 | H@3: 0.336 | H@10: 0.485
+2023-11-03 10:15:27 INFO     both:  	 valid MR: 161.88 | MRR: 0.313 | H@1: 0.224 | H@3: 0.344 | H@10: 0.492
+2023-11-03 10:15:27 INFO     global:	 test MR: 176.45 | MRR: 0.307 | H@1: 0.219 | H@3: 0.334 | H@10: 0.486
+2023-11-03 10:15:27 INFO     local: 	 test MR: 181.61 | MRR: 0.304 | H@1: 0.216 | H@3: 0.332 | H@10: 0.481
+2023-11-03 10:15:27 INFO     both:  	 test MR: 169.60 | MRR: 0.311 | H@1: 0.222 | H@3: 0.340 | H@10: 0.490
+2023-11-03 10:15:51 INFO     	 Epoch 30 | average train loss: 0.0536
+2023-11-03 10:15:51 INFO     	 Epoch 30 | average valid loss: 0.0433
+2023-11-03 10:16:15 INFO     	 Epoch 31 | average train loss: 0.0532
+2023-11-03 10:16:15 INFO     	 Epoch 31 | average valid loss: 0.0438
+2023-11-03 10:16:38 INFO     	 Epoch 32 | average train loss: 0.0527
+2023-11-03 10:16:39 INFO     	 Epoch 32 | average valid loss: 0.0428
+2023-11-03 10:17:02 INFO     	 Epoch 33 | average train loss: 0.0524
+2023-11-03 10:17:02 INFO     	 Epoch 33 | average valid loss: 0.0425
+2023-11-03 10:17:26 INFO     	 Epoch 34 | average train loss: 0.0521
+2023-11-03 10:17:26 INFO     	 Epoch 34 | average valid loss: 0.0425
+2023-11-03 10:17:39 INFO     global:	 valid MR: 165.11 | MRR: 0.312 | H@1: 0.225 | H@3: 0.339 | H@10: 0.491
+2023-11-03 10:17:39 INFO     local: 	 valid MR: 170.71 | MRR: 0.309 | H@1: 0.221 | H@3: 0.338 | H@10: 0.490
+2023-11-03 10:17:39 INFO     both:  	 valid MR: 159.27 | MRR: 0.316 | H@1: 0.227 | H@3: 0.344 | H@10: 0.496
+2023-11-03 10:17:39 INFO     global:	 test MR: 175.15 | MRR: 0.311 | H@1: 0.222 | H@3: 0.338 | H@10: 0.489
+2023-11-03 10:17:39 INFO     local: 	 test MR: 178.52 | MRR: 0.307 | H@1: 0.218 | H@3: 0.336 | H@10: 0.487
+2023-11-03 10:17:39 INFO     both:  	 test MR: 167.51 | MRR: 0.314 | H@1: 0.224 | H@3: 0.343 | H@10: 0.494
+2023-11-03 10:17:39 INFO     	 Saving model at epoch 34 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:18:03 INFO     	 Epoch 35 | average train loss: 0.0518
+2023-11-03 10:18:03 INFO     	 Epoch 35 | average valid loss: 0.0424
+2023-11-03 10:18:26 INFO     	 Epoch 36 | average train loss: 0.0515
+2023-11-03 10:18:27 INFO     	 Epoch 36 | average valid loss: 0.0424
+2023-11-03 10:18:50 INFO     	 Epoch 37 | average train loss: 0.0514
+2023-11-03 10:18:50 INFO     	 Epoch 37 | average valid loss: 0.0423
+2023-11-03 10:19:13 INFO     	 Epoch 38 | average train loss: 0.0511
+2023-11-03 10:19:13 INFO     	 Epoch 38 | average valid loss: 0.0424
+2023-11-03 10:19:37 INFO     	 Epoch 39 | average train loss: 0.0509
+2023-11-03 10:19:37 INFO     	 Epoch 39 | average valid loss: 0.0423
+2023-11-03 10:19:51 INFO     global:	 valid MR: 163.94 | MRR: 0.315 | H@1: 0.228 | H@3: 0.342 | H@10: 0.493
+2023-11-03 10:19:51 INFO     local: 	 valid MR: 167.89 | MRR: 0.312 | H@1: 0.223 | H@3: 0.342 | H@10: 0.491
+2023-11-03 10:19:51 INFO     both:  	 valid MR: 157.40 | MRR: 0.319 | H@1: 0.231 | H@3: 0.349 | H@10: 0.498
+2023-11-03 10:19:51 INFO     global:	 test MR: 174.18 | MRR: 0.313 | H@1: 0.225 | H@3: 0.342 | H@10: 0.492
+2023-11-03 10:19:51 INFO     local: 	 test MR: 177.06 | MRR: 0.311 | H@1: 0.223 | H@3: 0.339 | H@10: 0.490
+2023-11-03 10:19:51 INFO     both:  	 test MR: 166.21 | MRR: 0.317 | H@1: 0.228 | H@3: 0.346 | H@10: 0.498
+2023-11-03 10:19:51 INFO     	 Saving model at epoch 39 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:20:14 INFO     	 Epoch 40 | average train loss: 0.0508
+2023-11-03 10:20:14 INFO     	 Epoch 40 | average valid loss: 0.0421
+2023-11-03 10:20:38 INFO     	 Epoch 41 | average train loss: 0.0506
+2023-11-03 10:20:38 INFO     	 Epoch 41 | average valid loss: 0.0421
+2023-11-03 10:21:01 INFO     	 Epoch 42 | average train loss: 0.0504
+2023-11-03 10:21:02 INFO     	 Epoch 42 | average valid loss: 0.0427
+2023-11-03 10:21:26 INFO     	 Epoch 43 | average train loss: 0.0503
+2023-11-03 10:21:26 INFO     	 Epoch 43 | average valid loss: 0.0425
+2023-11-03 10:21:50 INFO     	 Epoch 44 | average train loss: 0.0502
+2023-11-03 10:21:50 INFO     	 Epoch 44 | average valid loss: 0.0421
+2023-11-03 10:22:04 INFO     global:	 valid MR: 163.57 | MRR: 0.316 | H@1: 0.229 | H@3: 0.344 | H@10: 0.494
+2023-11-03 10:22:04 INFO     local: 	 valid MR: 167.01 | MRR: 0.315 | H@1: 0.226 | H@3: 0.344 | H@10: 0.495
+2023-11-03 10:22:04 INFO     both:  	 valid MR: 156.67 | MRR: 0.321 | H@1: 0.232 | H@3: 0.350 | H@10: 0.500
+2023-11-03 10:22:04 INFO     global:	 test MR: 172.63 | MRR: 0.314 | H@1: 0.224 | H@3: 0.343 | H@10: 0.492
+2023-11-03 10:22:04 INFO     local: 	 test MR: 175.35 | MRR: 0.313 | H@1: 0.224 | H@3: 0.343 | H@10: 0.492
+2023-11-03 10:22:04 INFO     both:  	 test MR: 164.44 | MRR: 0.318 | H@1: 0.228 | H@3: 0.348 | H@10: 0.498
+2023-11-03 10:22:04 INFO     	 Saving model at epoch 44 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:22:28 INFO     	 Epoch 45 | average train loss: 0.0500
+2023-11-03 10:22:28 INFO     	 Epoch 45 | average valid loss: 0.0421
+2023-11-03 10:22:51 INFO     	 Epoch 46 | average train loss: 0.0498
+2023-11-03 10:22:51 INFO     	 Epoch 46 | average valid loss: 0.0425
+2023-11-03 10:23:15 INFO     	 Epoch 47 | average train loss: 0.0498
+2023-11-03 10:23:15 INFO     	 Epoch 47 | average valid loss: 0.0428
+2023-11-03 10:23:39 INFO     	 Epoch 48 | average train loss: 0.0497
+2023-11-03 10:23:40 INFO     	 Epoch 48 | average valid loss: 0.0425
+2023-11-03 10:24:03 INFO     	 Epoch 49 | average train loss: 0.0495
+2023-11-03 10:24:03 INFO     	 Epoch 49 | average valid loss: 0.0426
+2023-11-03 10:24:17 INFO     global:	 valid MR: 161.70 | MRR: 0.318 | H@1: 0.230 | H@3: 0.347 | H@10: 0.496
+2023-11-03 10:24:17 INFO     local: 	 valid MR: 164.17 | MRR: 0.317 | H@1: 0.228 | H@3: 0.346 | H@10: 0.496
+2023-11-03 10:24:17 INFO     both:  	 valid MR: 154.10 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.501
+2023-11-03 10:24:17 INFO     global:	 test MR: 171.49 | MRR: 0.316 | H@1: 0.228 | H@3: 0.346 | H@10: 0.494
+2023-11-03 10:24:17 INFO     local: 	 test MR: 173.79 | MRR: 0.314 | H@1: 0.225 | H@3: 0.344 | H@10: 0.494
+2023-11-03 10:24:17 INFO     both:  	 test MR: 163.05 | MRR: 0.320 | H@1: 0.230 | H@3: 0.351 | H@10: 0.500
+2023-11-03 10:24:17 INFO     	 Saving model at epoch 49 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:24:40 INFO     	 Epoch 50 | average train loss: 0.0494
+2023-11-03 10:24:41 INFO     	 Epoch 50 | average valid loss: 0.0419
+2023-11-03 10:25:04 INFO     	 Epoch 51 | average train loss: 0.0494
+2023-11-03 10:25:05 INFO     	 Epoch 51 | average valid loss: 0.0424
+2023-11-03 10:25:29 INFO     	 Epoch 52 | average train loss: 0.0493
+2023-11-03 10:25:29 INFO     	 Epoch 52 | average valid loss: 0.0425
+2023-11-03 10:25:52 INFO     	 Epoch 53 | average train loss: 0.0492
+2023-11-03 10:25:52 INFO     	 Epoch 53 | average valid loss: 0.0430
+2023-11-03 10:26:16 INFO     	 Epoch 54 | average train loss: 0.0491
+2023-11-03 10:26:17 INFO     	 Epoch 54 | average valid loss: 0.0428
+2023-11-03 10:26:31 INFO     global:	 valid MR: 161.17 | MRR: 0.319 | H@1: 0.232 | H@3: 0.347 | H@10: 0.498
+2023-11-03 10:26:31 INFO     local: 	 valid MR: 163.99 | MRR: 0.318 | H@1: 0.229 | H@3: 0.348 | H@10: 0.497
+2023-11-03 10:26:31 INFO     both:  	 valid MR: 153.73 | MRR: 0.324 | H@1: 0.236 | H@3: 0.354 | H@10: 0.503
+2023-11-03 10:26:31 INFO     global:	 test MR: 169.86 | MRR: 0.316 | H@1: 0.227 | H@3: 0.346 | H@10: 0.494
+2023-11-03 10:26:31 INFO     local: 	 test MR: 172.96 | MRR: 0.315 | H@1: 0.225 | H@3: 0.345 | H@10: 0.495
+2023-11-03 10:26:31 INFO     both:  	 test MR: 161.66 | MRR: 0.320 | H@1: 0.230 | H@3: 0.351 | H@10: 0.501
+2023-11-03 10:26:31 INFO     	 Saving model at epoch 54 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:26:55 INFO     	 Epoch 55 | average train loss: 0.0490
+2023-11-03 10:26:55 INFO     	 Epoch 55 | average valid loss: 0.0433
+2023-11-03 10:27:19 INFO     	 Epoch 56 | average train loss: 0.0489
+2023-11-03 10:27:19 INFO     	 Epoch 56 | average valid loss: 0.0433
+2023-11-03 10:27:43 INFO     	 Epoch 57 | average train loss: 0.0490
+2023-11-03 10:27:43 INFO     	 Epoch 57 | average valid loss: 0.0432
+2023-11-03 10:28:07 INFO     	 Epoch 58 | average train loss: 0.0488
+2023-11-03 10:28:07 INFO     	 Epoch 58 | average valid loss: 0.0433
+2023-11-03 10:28:30 INFO     	 Epoch 59 | average train loss: 0.0487
+2023-11-03 10:28:31 INFO     	 Epoch 59 | average valid loss: 0.0432
+2023-11-03 10:28:46 INFO     global:	 valid MR: 161.55 | MRR: 0.320 | H@1: 0.232 | H@3: 0.348 | H@10: 0.499
+2023-11-03 10:28:46 INFO     local: 	 valid MR: 163.76 | MRR: 0.318 | H@1: 0.228 | H@3: 0.350 | H@10: 0.499
+2023-11-03 10:28:46 INFO     both:  	 valid MR: 153.57 | MRR: 0.324 | H@1: 0.233 | H@3: 0.354 | H@10: 0.506
+2023-11-03 10:28:46 INFO     global:	 test MR: 170.52 | MRR: 0.316 | H@1: 0.227 | H@3: 0.346 | H@10: 0.497
+2023-11-03 10:28:46 INFO     local: 	 test MR: 172.33 | MRR: 0.315 | H@1: 0.225 | H@3: 0.345 | H@10: 0.498
+2023-11-03 10:28:46 INFO     both:  	 test MR: 161.46 | MRR: 0.321 | H@1: 0.231 | H@3: 0.351 | H@10: 0.504
+2023-11-03 10:29:09 INFO     	 Epoch 60 | average train loss: 0.0486
+2023-11-03 10:29:09 INFO     	 Epoch 60 | average valid loss: 0.0437
+2023-11-03 10:29:33 INFO     	 Epoch 61 | average train loss: 0.0486
+2023-11-03 10:29:33 INFO     	 Epoch 61 | average valid loss: 0.0430
+2023-11-03 10:29:56 INFO     	 Epoch 62 | average train loss: 0.0485
+2023-11-03 10:29:56 INFO     	 Epoch 62 | average valid loss: 0.0427
+2023-11-03 10:30:20 INFO     	 Epoch 63 | average train loss: 0.0484
+2023-11-03 10:30:20 INFO     	 Epoch 63 | average valid loss: 0.0436
+2023-11-03 10:30:43 INFO     	 Epoch 64 | average train loss: 0.0483
+2023-11-03 10:30:44 INFO     	 Epoch 64 | average valid loss: 0.0434
+2023-11-03 10:30:59 INFO     global:	 valid MR: 161.22 | MRR: 0.321 | H@1: 0.233 | H@3: 0.351 | H@10: 0.498
+2023-11-03 10:30:59 INFO     local: 	 valid MR: 163.87 | MRR: 0.319 | H@1: 0.228 | H@3: 0.352 | H@10: 0.499
+2023-11-03 10:30:59 INFO     both:  	 valid MR: 153.23 | MRR: 0.325 | H@1: 0.235 | H@3: 0.357 | H@10: 0.506
+2023-11-03 10:30:59 INFO     global:	 test MR: 169.73 | MRR: 0.316 | H@1: 0.226 | H@3: 0.347 | H@10: 0.497
+2023-11-03 10:30:59 INFO     local: 	 test MR: 170.79 | MRR: 0.316 | H@1: 0.225 | H@3: 0.346 | H@10: 0.498
+2023-11-03 10:30:59 INFO     both:  	 test MR: 160.20 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 10:30:59 INFO     	 Saving model at epoch 64 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:31:22 INFO     	 Epoch 65 | average train loss: 0.0483
+2023-11-03 10:31:22 INFO     	 Epoch 65 | average valid loss: 0.0438
+2023-11-03 10:31:46 INFO     	 Epoch 66 | average train loss: 0.0483
+2023-11-03 10:31:46 INFO     	 Epoch 66 | average valid loss: 0.0439
+2023-11-03 10:32:10 INFO     	 Epoch 67 | average train loss: 0.0482
+2023-11-03 10:32:10 INFO     	 Epoch 67 | average valid loss: 0.0436
+2023-11-03 10:32:33 INFO     	 Epoch 68 | average train loss: 0.0482
+2023-11-03 10:32:34 INFO     	 Epoch 68 | average valid loss: 0.0439
+2023-11-03 10:32:57 INFO     	 Epoch 69 | average train loss: 0.0481
+2023-11-03 10:32:57 INFO     	 Epoch 69 | average valid loss: 0.0446
+2023-11-03 10:33:13 INFO     global:	 valid MR: 161.17 | MRR: 0.320 | H@1: 0.231 | H@3: 0.349 | H@10: 0.500
+2023-11-03 10:33:13 INFO     local: 	 valid MR: 163.78 | MRR: 0.320 | H@1: 0.230 | H@3: 0.351 | H@10: 0.501
+2023-11-03 10:33:13 INFO     both:  	 valid MR: 153.01 | MRR: 0.325 | H@1: 0.234 | H@3: 0.356 | H@10: 0.508
+2023-11-03 10:33:13 INFO     global:	 test MR: 170.46 | MRR: 0.317 | H@1: 0.227 | H@3: 0.347 | H@10: 0.498
+2023-11-03 10:33:13 INFO     local: 	 test MR: 171.98 | MRR: 0.317 | H@1: 0.227 | H@3: 0.349 | H@10: 0.497
+2023-11-03 10:33:13 INFO     both:  	 test MR: 160.84 | MRR: 0.322 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 10:33:36 INFO     	 Epoch 70 | average train loss: 0.0481
+2023-11-03 10:33:36 INFO     	 Epoch 70 | average valid loss: 0.0439
+2023-11-03 10:33:59 INFO     	 Epoch 71 | average train loss: 0.0481
+2023-11-03 10:33:59 INFO     	 Epoch 71 | average valid loss: 0.0439
+2023-11-03 10:34:23 INFO     	 Epoch 72 | average train loss: 0.0479
+2023-11-03 10:34:23 INFO     	 Epoch 72 | average valid loss: 0.0444
+2023-11-03 10:34:47 INFO     	 Epoch 73 | average train loss: 0.0480
+2023-11-03 10:34:48 INFO     	 Epoch 73 | average valid loss: 0.0444
+2023-11-03 10:35:11 INFO     	 Epoch 74 | average train loss: 0.0479
+2023-11-03 10:35:11 INFO     	 Epoch 74 | average valid loss: 0.0444
+2023-11-03 10:35:27 INFO     global:	 valid MR: 160.82 | MRR: 0.322 | H@1: 0.234 | H@3: 0.352 | H@10: 0.502
+2023-11-03 10:35:27 INFO     local: 	 valid MR: 162.85 | MRR: 0.321 | H@1: 0.231 | H@3: 0.353 | H@10: 0.503
+2023-11-03 10:35:27 INFO     both:  	 valid MR: 152.15 | MRR: 0.327 | H@1: 0.237 | H@3: 0.360 | H@10: 0.510
+2023-11-03 10:35:27 INFO     global:	 test MR: 170.02 | MRR: 0.319 | H@1: 0.229 | H@3: 0.349 | H@10: 0.501
+2023-11-03 10:35:27 INFO     local: 	 test MR: 171.04 | MRR: 0.318 | H@1: 0.227 | H@3: 0.349 | H@10: 0.502
+2023-11-03 10:35:27 INFO     both:  	 test MR: 160.07 | MRR: 0.324 | H@1: 0.233 | H@3: 0.356 | H@10: 0.508
+2023-11-03 10:35:27 INFO     	 Saving model at epoch 74 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:35:51 INFO     	 Epoch 75 | average train loss: 0.0478
+2023-11-03 10:35:51 INFO     	 Epoch 75 | average valid loss: 0.0445
+2023-11-03 10:36:15 INFO     	 Epoch 76 | average train loss: 0.0478
+2023-11-03 10:36:16 INFO     	 Epoch 76 | average valid loss: 0.0446
+2023-11-03 10:36:40 INFO     	 Epoch 77 | average train loss: 0.0477
+2023-11-03 10:36:40 INFO     	 Epoch 77 | average valid loss: 0.0453
+2023-11-03 10:37:04 INFO     	 Epoch 78 | average train loss: 0.0477
+2023-11-03 10:37:04 INFO     	 Epoch 78 | average valid loss: 0.0441
+2023-11-03 10:37:28 INFO     	 Epoch 79 | average train loss: 0.0476
+2023-11-03 10:37:28 INFO     	 Epoch 79 | average valid loss: 0.0446
+2023-11-03 10:37:44 INFO     global:	 valid MR: 161.08 | MRR: 0.321 | H@1: 0.231 | H@3: 0.351 | H@10: 0.501
+2023-11-03 10:37:44 INFO     local: 	 valid MR: 162.41 | MRR: 0.320 | H@1: 0.230 | H@3: 0.350 | H@10: 0.501
+2023-11-03 10:37:44 INFO     both:  	 valid MR: 151.88 | MRR: 0.326 | H@1: 0.236 | H@3: 0.358 | H@10: 0.508
+2023-11-03 10:37:44 INFO     global:	 test MR: 170.28 | MRR: 0.318 | H@1: 0.229 | H@3: 0.348 | H@10: 0.499
+2023-11-03 10:37:44 INFO     local: 	 test MR: 171.58 | MRR: 0.317 | H@1: 0.226 | H@3: 0.348 | H@10: 0.500
+2023-11-03 10:37:44 INFO     both:  	 test MR: 160.11 | MRR: 0.323 | H@1: 0.232 | H@3: 0.354 | H@10: 0.507
+2023-11-03 10:38:07 INFO     	 Epoch 80 | average train loss: 0.0476
+2023-11-03 10:38:08 INFO     	 Epoch 80 | average valid loss: 0.0451
+2023-11-03 10:38:31 INFO     	 Epoch 81 | average train loss: 0.0476
+2023-11-03 10:38:31 INFO     	 Epoch 81 | average valid loss: 0.0450
+2023-11-03 10:38:55 INFO     	 Epoch 82 | average train loss: 0.0475
+2023-11-03 10:38:55 INFO     	 Epoch 82 | average valid loss: 0.0448
+2023-11-03 10:39:18 INFO     	 Epoch 83 | average train loss: 0.0475
+2023-11-03 10:39:19 INFO     	 Epoch 83 | average valid loss: 0.0451
+2023-11-03 10:39:43 INFO     	 Epoch 84 | average train loss: 0.0474
+2023-11-03 10:39:43 INFO     	 Epoch 84 | average valid loss: 0.0448
+2023-11-03 10:40:00 INFO     global:	 valid MR: 161.29 | MRR: 0.321 | H@1: 0.233 | H@3: 0.351 | H@10: 0.499
+2023-11-03 10:40:00 INFO     local: 	 valid MR: 163.04 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.501
+2023-11-03 10:40:00 INFO     both:  	 valid MR: 152.16 | MRR: 0.327 | H@1: 0.237 | H@3: 0.359 | H@10: 0.509
+2023-11-03 10:40:00 INFO     global:	 test MR: 170.32 | MRR: 0.318 | H@1: 0.228 | H@3: 0.347 | H@10: 0.499
+2023-11-03 10:40:00 INFO     local: 	 test MR: 171.43 | MRR: 0.319 | H@1: 0.228 | H@3: 0.349 | H@10: 0.499
+2023-11-03 10:40:00 INFO     both:  	 test MR: 159.85 | MRR: 0.324 | H@1: 0.233 | H@3: 0.355 | H@10: 0.506
+2023-11-03 10:40:00 INFO     	 Saving model at epoch 84 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:40:24 INFO     	 Epoch 85 | average train loss: 0.0474
+2023-11-03 10:40:24 INFO     	 Epoch 85 | average valid loss: 0.0451
+2023-11-03 10:40:48 INFO     	 Epoch 86 | average train loss: 0.0474
+2023-11-03 10:40:48 INFO     	 Epoch 86 | average valid loss: 0.0451
+2023-11-03 10:41:13 INFO     	 Epoch 87 | average train loss: 0.0473
+2023-11-03 10:41:13 INFO     	 Epoch 87 | average valid loss: 0.0453
+2023-11-03 10:41:37 INFO     	 Epoch 88 | average train loss: 0.0473
+2023-11-03 10:41:37 INFO     	 Epoch 88 | average valid loss: 0.0459
+2023-11-03 10:42:01 INFO     	 Epoch 89 | average train loss: 0.0473
+2023-11-03 10:42:01 INFO     	 Epoch 89 | average valid loss: 0.0454
+2023-11-03 10:42:18 INFO     global:	 valid MR: 161.36 | MRR: 0.321 | H@1: 0.233 | H@3: 0.348 | H@10: 0.502
+2023-11-03 10:42:18 INFO     local: 	 valid MR: 162.89 | MRR: 0.322 | H@1: 0.233 | H@3: 0.353 | H@10: 0.501
+2023-11-03 10:42:18 INFO     both:  	 valid MR: 151.97 | MRR: 0.328 | H@1: 0.239 | H@3: 0.358 | H@10: 0.509
+2023-11-03 10:42:18 INFO     global:	 test MR: 171.31 | MRR: 0.317 | H@1: 0.228 | H@3: 0.348 | H@10: 0.499
+2023-11-03 10:42:18 INFO     local: 	 test MR: 172.37 | MRR: 0.320 | H@1: 0.230 | H@3: 0.350 | H@10: 0.500
+2023-11-03 10:42:18 INFO     both:  	 test MR: 160.57 | MRR: 0.324 | H@1: 0.234 | H@3: 0.356 | H@10: 0.507
+2023-11-03 10:42:18 INFO     	 Saving model at epoch 89 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:42:42 INFO     	 Epoch 90 | average train loss: 0.0472
+2023-11-03 10:42:42 INFO     	 Epoch 90 | average valid loss: 0.0450
+2023-11-03 10:43:05 INFO     	 Epoch 91 | average train loss: 0.0472
+2023-11-03 10:43:05 INFO     	 Epoch 91 | average valid loss: 0.0456
+2023-11-03 10:43:28 INFO     	 Epoch 92 | average train loss: 0.0472
+2023-11-03 10:43:29 INFO     	 Epoch 92 | average valid loss: 0.0453
+2023-11-03 10:43:52 INFO     	 Epoch 93 | average train loss: 0.0472
+2023-11-03 10:43:52 INFO     	 Epoch 93 | average valid loss: 0.0459
+2023-11-03 10:44:15 INFO     	 Epoch 94 | average train loss: 0.0471
+2023-11-03 10:44:15 INFO     	 Epoch 94 | average valid loss: 0.0462
+2023-11-03 10:44:33 INFO     global:	 valid MR: 161.16 | MRR: 0.322 | H@1: 0.233 | H@3: 0.352 | H@10: 0.504
+2023-11-03 10:44:33 INFO     local: 	 valid MR: 162.87 | MRR: 0.323 | H@1: 0.233 | H@3: 0.356 | H@10: 0.504
+2023-11-03 10:44:33 INFO     both:  	 valid MR: 151.64 | MRR: 0.329 | H@1: 0.239 | H@3: 0.360 | H@10: 0.511
+2023-11-03 10:44:33 INFO     global:	 test MR: 170.62 | MRR: 0.318 | H@1: 0.228 | H@3: 0.350 | H@10: 0.500
+2023-11-03 10:44:33 INFO     local: 	 test MR: 172.08 | MRR: 0.320 | H@1: 0.229 | H@3: 0.350 | H@10: 0.502
+2023-11-03 10:44:33 INFO     both:  	 test MR: 159.85 | MRR: 0.325 | H@1: 0.234 | H@3: 0.357 | H@10: 0.509
+2023-11-03 10:44:33 INFO     	 Saving model at epoch 94 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 10:44:56 INFO     	 Epoch 95 | average train loss: 0.0471
+2023-11-03 10:44:56 INFO     	 Epoch 95 | average valid loss: 0.0457
+2023-11-03 10:45:20 INFO     	 Epoch 96 | average train loss: 0.0471
+2023-11-03 10:45:20 INFO     	 Epoch 96 | average valid loss: 0.0470
+2023-11-03 10:45:43 INFO     	 Epoch 97 | average train loss: 0.0470
+2023-11-03 10:45:44 INFO     	 Epoch 97 | average valid loss: 0.0463
+2023-11-03 10:46:07 INFO     	 Epoch 98 | average train loss: 0.0470
+2023-11-03 10:46:07 INFO     	 Epoch 98 | average valid loss: 0.0467
+2023-11-03 10:46:31 INFO     	 Epoch 99 | average train loss: 0.0470
+2023-11-03 10:46:31 INFO     	 Epoch 99 | average valid loss: 0.0457
+2023-11-03 10:46:49 INFO     global:	 valid MR: 161.83 | MRR: 0.322 | H@1: 0.233 | H@3: 0.350 | H@10: 0.501
+2023-11-03 10:46:49 INFO     local: 	 valid MR: 163.39 | MRR: 0.323 | H@1: 0.234 | H@3: 0.354 | H@10: 0.503
+2023-11-03 10:46:49 INFO     both:  	 valid MR: 152.12 | MRR: 0.329 | H@1: 0.239 | H@3: 0.359 | H@10: 0.511
+2023-11-03 10:46:49 INFO     global:	 test MR: 171.50 | MRR: 0.319 | H@1: 0.229 | H@3: 0.350 | H@10: 0.501
+2023-11-03 10:46:49 INFO     local: 	 test MR: 172.35 | MRR: 0.319 | H@1: 0.228 | H@3: 0.351 | H@10: 0.501
+2023-11-03 10:46:49 INFO     both:  	 test MR: 160.09 | MRR: 0.325 | H@1: 0.234 | H@3: 0.358 | H@10: 0.508
+2023-11-03 10:47:12 INFO     	 Epoch 100 | average train loss: 0.0469
+2023-11-03 10:47:12 INFO     	 Epoch 100 | average valid loss: 0.0463
+2023-11-03 10:47:36 INFO     	 Epoch 101 | average train loss: 0.0470
+2023-11-03 10:47:36 INFO     	 Epoch 101 | average valid loss: 0.0465
+2023-11-03 10:47:59 INFO     	 Epoch 102 | average train loss: 0.0469
+2023-11-03 10:48:00 INFO     	 Epoch 102 | average valid loss: 0.0467
+2023-11-03 10:48:23 INFO     	 Epoch 103 | average train loss: 0.0469
+2023-11-03 10:48:24 INFO     	 Epoch 103 | average valid loss: 0.0458
+2023-11-03 10:48:47 INFO     	 Epoch 104 | average train loss: 0.0469
+2023-11-03 10:48:48 INFO     	 Epoch 104 | average valid loss: 0.0466
+2023-11-03 10:49:06 INFO     global:	 valid MR: 161.83 | MRR: 0.322 | H@1: 0.234 | H@3: 0.350 | H@10: 0.502
+2023-11-03 10:49:06 INFO     local: 	 valid MR: 163.26 | MRR: 0.323 | H@1: 0.234 | H@3: 0.354 | H@10: 0.505
+2023-11-03 10:49:06 INFO     both:  	 valid MR: 151.81 | MRR: 0.329 | H@1: 0.239 | H@3: 0.359 | H@10: 0.511
+2023-11-03 10:49:06 INFO     global:	 test MR: 172.54 | MRR: 0.319 | H@1: 0.229 | H@3: 0.348 | H@10: 0.499
+2023-11-03 10:49:06 INFO     local: 	 test MR: 173.08 | MRR: 0.321 | H@1: 0.230 | H@3: 0.352 | H@10: 0.501
+2023-11-03 10:49:06 INFO     both:  	 test MR: 160.84 | MRR: 0.325 | H@1: 0.234 | H@3: 0.357 | H@10: 0.507
+2023-11-03 10:49:30 INFO     	 Epoch 105 | average train loss: 0.0468
+2023-11-03 10:49:30 INFO     	 Epoch 105 | average valid loss: 0.0466
+2023-11-03 10:49:54 INFO     	 Epoch 106 | average train loss: 0.0469
+2023-11-03 10:49:54 INFO     	 Epoch 106 | average valid loss: 0.0464
+2023-11-03 10:50:18 INFO     	 Epoch 107 | average train loss: 0.0468
+2023-11-03 10:50:19 INFO     	 Epoch 107 | average valid loss: 0.0472
+2023-11-03 10:50:42 INFO     	 Epoch 108 | average train loss: 0.0467
+2023-11-03 10:50:42 INFO     	 Epoch 108 | average valid loss: 0.0468
+2023-11-03 10:51:06 INFO     	 Epoch 109 | average train loss: 0.0467
+2023-11-03 10:51:06 INFO     	 Epoch 109 | average valid loss: 0.0465
+2023-11-03 10:51:25 INFO     global:	 valid MR: 162.29 | MRR: 0.323 | H@1: 0.234 | H@3: 0.351 | H@10: 0.502
+2023-11-03 10:51:25 INFO     local: 	 valid MR: 163.78 | MRR: 0.323 | H@1: 0.234 | H@3: 0.353 | H@10: 0.504
+2023-11-03 10:51:25 INFO     both:  	 valid MR: 152.23 | MRR: 0.328 | H@1: 0.238 | H@3: 0.361 | H@10: 0.511
+2023-11-03 10:51:25 INFO     global:	 test MR: 172.00 | MRR: 0.318 | H@1: 0.227 | H@3: 0.348 | H@10: 0.499
+2023-11-03 10:51:25 INFO     local: 	 test MR: 173.31 | MRR: 0.320 | H@1: 0.230 | H@3: 0.350 | H@10: 0.501
+2023-11-03 10:51:25 INFO     both:  	 test MR: 160.59 | MRR: 0.324 | H@1: 0.232 | H@3: 0.357 | H@10: 0.507
+2023-11-03 10:51:48 INFO     	 Epoch 110 | average train loss: 0.0466
+2023-11-03 10:51:48 INFO     	 Epoch 110 | average valid loss: 0.0465
+2023-11-03 10:52:12 INFO     	 Epoch 111 | average train loss: 0.0467
+2023-11-03 10:52:12 INFO     	 Epoch 111 | average valid loss: 0.0467
+2023-11-03 10:52:36 INFO     	 Epoch 112 | average train loss: 0.0466
+2023-11-03 10:52:36 INFO     	 Epoch 112 | average valid loss: 0.0467
+2023-11-03 10:52:59 INFO     	 Epoch 113 | average train loss: 0.0466
+2023-11-03 10:52:59 INFO     	 Epoch 113 | average valid loss: 0.0475
+2023-11-03 10:53:23 INFO     	 Epoch 114 | average train loss: 0.0467
+2023-11-03 10:53:23 INFO     	 Epoch 114 | average valid loss: 0.0471
+2023-11-03 10:53:42 INFO     global:	 valid MR: 161.96 | MRR: 0.322 | H@1: 0.233 | H@3: 0.349 | H@10: 0.502
+2023-11-03 10:53:42 INFO     local: 	 valid MR: 163.56 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.505
+2023-11-03 10:53:42 INFO     both:  	 valid MR: 151.78 | MRR: 0.329 | H@1: 0.238 | H@3: 0.361 | H@10: 0.511
+2023-11-03 10:53:42 INFO     global:	 test MR: 172.58 | MRR: 0.318 | H@1: 0.228 | H@3: 0.349 | H@10: 0.500
+2023-11-03 10:53:42 INFO     local: 	 test MR: 173.51 | MRR: 0.321 | H@1: 0.230 | H@3: 0.352 | H@10: 0.502
+2023-11-03 10:53:42 INFO     both:  	 test MR: 160.84 | MRR: 0.326 | H@1: 0.234 | H@3: 0.359 | H@10: 0.509
+2023-11-03 10:54:05 INFO     	 Epoch 115 | average train loss: 0.0466
+2023-11-03 10:54:06 INFO     	 Epoch 115 | average valid loss: 0.0479
+2023-11-03 10:54:29 INFO     	 Epoch 116 | average train loss: 0.0466
+2023-11-03 10:54:30 INFO     	 Epoch 116 | average valid loss: 0.0471
+2023-11-03 10:54:53 INFO     	 Epoch 117 | average train loss: 0.0466
+2023-11-03 10:54:54 INFO     	 Epoch 117 | average valid loss: 0.0473
+2023-11-03 10:55:17 INFO     	 Epoch 118 | average train loss: 0.0466
+2023-11-03 10:55:18 INFO     	 Epoch 118 | average valid loss: 0.0473
+2023-11-03 10:55:41 INFO     	 Epoch 119 | average train loss: 0.0465
+2023-11-03 10:55:41 INFO     	 Epoch 119 | average valid loss: 0.0477
+2023-11-03 10:56:01 INFO     global:	 valid MR: 162.75 | MRR: 0.321 | H@1: 0.232 | H@3: 0.349 | H@10: 0.503
+2023-11-03 10:56:01 INFO     local: 	 valid MR: 164.20 | MRR: 0.323 | H@1: 0.233 | H@3: 0.353 | H@10: 0.506
+2023-11-03 10:56:01 INFO     both:  	 valid MR: 152.37 | MRR: 0.328 | H@1: 0.237 | H@3: 0.359 | H@10: 0.511
+2023-11-03 10:56:01 INFO     global:	 test MR: 173.05 | MRR: 0.317 | H@1: 0.226 | H@3: 0.348 | H@10: 0.502
+2023-11-03 10:56:01 INFO     local: 	 test MR: 173.90 | MRR: 0.320 | H@1: 0.228 | H@3: 0.351 | H@10: 0.502
+2023-11-03 10:56:01 INFO     both:  	 test MR: 161.14 | MRR: 0.325 | H@1: 0.232 | H@3: 0.359 | H@10: 0.509
+2023-11-03 10:56:25 INFO     	 Epoch 120 | average train loss: 0.0465
+2023-11-03 10:56:25 INFO     	 Epoch 120 | average valid loss: 0.0474
+2023-11-03 10:56:48 INFO     	 Epoch 121 | average train loss: 0.0465
+2023-11-03 10:56:49 INFO     	 Epoch 121 | average valid loss: 0.0475
+2023-11-03 10:57:12 INFO     	 Epoch 122 | average train loss: 0.0464
+2023-11-03 10:57:12 INFO     	 Epoch 122 | average valid loss: 0.0473
+2023-11-03 10:57:35 INFO     	 Epoch 123 | average train loss: 0.0464
+2023-11-03 10:57:35 INFO     	 Epoch 123 | average valid loss: 0.0478
+2023-11-03 10:57:59 INFO     	 Epoch 124 | average train loss: 0.0464
+2023-11-03 10:57:59 INFO     	 Epoch 124 | average valid loss: 0.0478
+2023-11-03 10:58:19 INFO     global:	 valid MR: 162.55 | MRR: 0.322 | H@1: 0.233 | H@3: 0.351 | H@10: 0.503
+2023-11-03 10:58:19 INFO     local: 	 valid MR: 164.38 | MRR: 0.323 | H@1: 0.233 | H@3: 0.355 | H@10: 0.505
+2023-11-03 10:58:19 INFO     both:  	 valid MR: 152.33 | MRR: 0.328 | H@1: 0.237 | H@3: 0.360 | H@10: 0.511
+2023-11-03 10:58:19 INFO     global:	 test MR: 173.57 | MRR: 0.318 | H@1: 0.226 | H@3: 0.349 | H@10: 0.501
+2023-11-03 10:58:19 INFO     local: 	 test MR: 173.86 | MRR: 0.319 | H@1: 0.227 | H@3: 0.352 | H@10: 0.502
+2023-11-03 10:58:19 INFO     both:  	 test MR: 161.15 | MRR: 0.324 | H@1: 0.231 | H@3: 0.358 | H@10: 0.509
+2023-11-03 10:58:42 INFO     	 Epoch 125 | average train loss: 0.0464
+2023-11-03 10:58:43 INFO     	 Epoch 125 | average valid loss: 0.0474
+2023-11-03 10:59:06 INFO     	 Epoch 126 | average train loss: 0.0464
+2023-11-03 10:59:06 INFO     	 Epoch 126 | average valid loss: 0.0476
+2023-11-03 10:59:30 INFO     	 Epoch 127 | average train loss: 0.0463
+2023-11-03 10:59:30 INFO     	 Epoch 127 | average valid loss: 0.0479
+2023-11-03 10:59:53 INFO     	 Epoch 128 | average train loss: 0.0463
+2023-11-03 10:59:53 INFO     	 Epoch 128 | average valid loss: 0.0476
+2023-11-03 11:00:17 INFO     	 Epoch 129 | average train loss: 0.0463
+2023-11-03 11:00:17 INFO     	 Epoch 129 | average valid loss: 0.0483
+2023-11-03 11:00:37 INFO     global:	 valid MR: 162.72 | MRR: 0.322 | H@1: 0.233 | H@3: 0.351 | H@10: 0.504
+2023-11-03 11:00:37 INFO     local: 	 valid MR: 164.18 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.506
+2023-11-03 11:00:37 INFO     both:  	 valid MR: 152.19 | MRR: 0.330 | H@1: 0.239 | H@3: 0.361 | H@10: 0.512
+2023-11-03 11:00:37 INFO     global:	 test MR: 173.86 | MRR: 0.319 | H@1: 0.227 | H@3: 0.350 | H@10: 0.501
+2023-11-03 11:00:37 INFO     local: 	 test MR: 174.21 | MRR: 0.320 | H@1: 0.229 | H@3: 0.351 | H@10: 0.503
+2023-11-03 11:00:37 INFO     both:  	 test MR: 161.34 | MRR: 0.326 | H@1: 0.235 | H@3: 0.357 | H@10: 0.510
+2023-11-03 11:00:37 INFO     	 Saving model at epoch 129 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 11:01:01 INFO     	 Epoch 130 | average train loss: 0.0463
+2023-11-03 11:01:01 INFO     	 Epoch 130 | average valid loss: 0.0475
+2023-11-03 11:01:24 INFO     	 Epoch 131 | average train loss: 0.0463
+2023-11-03 11:01:24 INFO     	 Epoch 131 | average valid loss: 0.0481
+2023-11-03 11:01:48 INFO     	 Epoch 132 | average train loss: 0.0462
+2023-11-03 11:01:48 INFO     	 Epoch 132 | average valid loss: 0.0485
+2023-11-03 11:02:12 INFO     	 Epoch 133 | average train loss: 0.0462
+2023-11-03 11:02:12 INFO     	 Epoch 133 | average valid loss: 0.0484
+2023-11-03 11:02:35 INFO     	 Epoch 134 | average train loss: 0.0462
+2023-11-03 11:02:36 INFO     	 Epoch 134 | average valid loss: 0.0481
+2023-11-03 11:02:57 INFO     global:	 valid MR: 162.97 | MRR: 0.321 | H@1: 0.232 | H@3: 0.351 | H@10: 0.502
+2023-11-03 11:02:57 INFO     local: 	 valid MR: 164.40 | MRR: 0.323 | H@1: 0.233 | H@3: 0.354 | H@10: 0.505
+2023-11-03 11:02:57 INFO     both:  	 valid MR: 152.26 | MRR: 0.328 | H@1: 0.238 | H@3: 0.360 | H@10: 0.510
+2023-11-03 11:02:57 INFO     global:	 test MR: 174.21 | MRR: 0.318 | H@1: 0.227 | H@3: 0.350 | H@10: 0.502
+2023-11-03 11:02:57 INFO     local: 	 test MR: 174.91 | MRR: 0.320 | H@1: 0.229 | H@3: 0.352 | H@10: 0.504
+2023-11-03 11:02:57 INFO     both:  	 test MR: 161.68 | MRR: 0.326 | H@1: 0.234 | H@3: 0.359 | H@10: 0.510
+2023-11-03 11:03:20 INFO     	 Epoch 135 | average train loss: 0.0462
+2023-11-03 11:03:20 INFO     	 Epoch 135 | average valid loss: 0.0482
+2023-11-03 11:03:43 INFO     	 Epoch 136 | average train loss: 0.0462
+2023-11-03 11:03:43 INFO     	 Epoch 136 | average valid loss: 0.0477
+2023-11-03 11:04:07 INFO     	 Epoch 137 | average train loss: 0.0462
+2023-11-03 11:04:07 INFO     	 Epoch 137 | average valid loss: 0.0481
+2023-11-03 11:04:30 INFO     	 Epoch 138 | average train loss: 0.0461
+2023-11-03 11:04:30 INFO     	 Epoch 138 | average valid loss: 0.0481
+2023-11-03 11:04:53 INFO     	 Epoch 139 | average train loss: 0.0461
+2023-11-03 11:04:54 INFO     	 Epoch 139 | average valid loss: 0.0481
+2023-11-03 11:05:15 INFO     global:	 valid MR: 163.21 | MRR: 0.323 | H@1: 0.235 | H@3: 0.352 | H@10: 0.503
+2023-11-03 11:05:15 INFO     local: 	 valid MR: 164.74 | MRR: 0.324 | H@1: 0.234 | H@3: 0.355 | H@10: 0.504
+2023-11-03 11:05:15 INFO     both:  	 valid MR: 152.53 | MRR: 0.329 | H@1: 0.239 | H@3: 0.361 | H@10: 0.511
+2023-11-03 11:05:15 INFO     global:	 test MR: 174.19 | MRR: 0.319 | H@1: 0.228 | H@3: 0.351 | H@10: 0.503
+2023-11-03 11:05:15 INFO     local: 	 test MR: 174.58 | MRR: 0.321 | H@1: 0.229 | H@3: 0.352 | H@10: 0.505
+2023-11-03 11:05:15 INFO     both:  	 test MR: 161.43 | MRR: 0.327 | H@1: 0.234 | H@3: 0.360 | H@10: 0.510
+2023-11-03 11:05:38 INFO     	 Epoch 140 | average train loss: 0.0457
+2023-11-03 11:05:39 INFO     	 Epoch 140 | average valid loss: 0.0490
+2023-11-03 11:06:02 INFO     	 Epoch 141 | average train loss: 0.0456
+2023-11-03 11:06:02 INFO     	 Epoch 141 | average valid loss: 0.0480
+2023-11-03 11:06:25 INFO     	 Epoch 142 | average train loss: 0.0456
+2023-11-03 11:06:26 INFO     	 Epoch 142 | average valid loss: 0.0484
+2023-11-03 11:06:49 INFO     	 Epoch 143 | average train loss: 0.0456
+2023-11-03 11:06:49 INFO     	 Epoch 143 | average valid loss: 0.0481
+2023-11-03 11:07:12 INFO     	 Epoch 144 | average train loss: 0.0455
+2023-11-03 11:07:13 INFO     	 Epoch 144 | average valid loss: 0.0477
+2023-11-03 11:07:35 INFO     global:	 valid MR: 163.07 | MRR: 0.324 | H@1: 0.235 | H@3: 0.353 | H@10: 0.504
+2023-11-03 11:07:35 INFO     local: 	 valid MR: 164.76 | MRR: 0.325 | H@1: 0.236 | H@3: 0.356 | H@10: 0.505
+2023-11-03 11:07:35 INFO     both:  	 valid MR: 152.51 | MRR: 0.331 | H@1: 0.241 | H@3: 0.362 | H@10: 0.512
+2023-11-03 11:07:35 INFO     global:	 test MR: 174.07 | MRR: 0.320 | H@1: 0.229 | H@3: 0.353 | H@10: 0.503
+2023-11-03 11:07:35 INFO     local: 	 test MR: 174.57 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 11:07:35 INFO     both:  	 test MR: 161.34 | MRR: 0.327 | H@1: 0.234 | H@3: 0.361 | H@10: 0.511
+2023-11-03 11:07:35 INFO     	 Saving model at epoch 144 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 11:07:58 INFO     	 Epoch 145 | average train loss: 0.0455
+2023-11-03 11:07:58 INFO     	 Epoch 145 | average valid loss: 0.0479
+2023-11-03 11:08:22 INFO     	 Epoch 146 | average train loss: 0.0455
+2023-11-03 11:08:22 INFO     	 Epoch 146 | average valid loss: 0.0486
+2023-11-03 11:08:45 INFO     	 Epoch 147 | average train loss: 0.0455
+2023-11-03 11:08:46 INFO     	 Epoch 147 | average valid loss: 0.0484
+2023-11-03 11:09:09 INFO     	 Epoch 148 | average train loss: 0.0455
+2023-11-03 11:09:09 INFO     	 Epoch 148 | average valid loss: 0.0479
+2023-11-03 11:09:33 INFO     	 Epoch 149 | average train loss: 0.0455
+2023-11-03 11:09:33 INFO     	 Epoch 149 | average valid loss: 0.0486
+2023-11-03 11:09:55 INFO     global:	 valid MR: 163.20 | MRR: 0.323 | H@1: 0.234 | H@3: 0.352 | H@10: 0.506
+2023-11-03 11:09:55 INFO     local: 	 valid MR: 164.89 | MRR: 0.325 | H@1: 0.236 | H@3: 0.357 | H@10: 0.506
+2023-11-03 11:09:55 INFO     both:  	 valid MR: 152.58 | MRR: 0.331 | H@1: 0.241 | H@3: 0.362 | H@10: 0.513
+2023-11-03 11:09:55 INFO     global:	 test MR: 174.45 | MRR: 0.320 | H@1: 0.229 | H@3: 0.352 | H@10: 0.505
+2023-11-03 11:09:55 INFO     local: 	 test MR: 174.69 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 11:09:55 INFO     both:  	 test MR: 161.53 | MRR: 0.328 | H@1: 0.236 | H@3: 0.362 | H@10: 0.511
+2023-11-03 11:09:55 INFO     	 Saving model at epoch 149 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 11:10:19 INFO     	 Epoch 150 | average train loss: 0.0455
+2023-11-03 11:10:19 INFO     	 Epoch 150 | average valid loss: 0.0492
+2023-11-03 11:10:43 INFO     	 Epoch 151 | average train loss: 0.0454
+2023-11-03 11:10:43 INFO     	 Epoch 151 | average valid loss: 0.0485
+2023-11-03 11:11:07 INFO     	 Epoch 152 | average train loss: 0.0454
+2023-11-03 11:11:07 INFO     	 Epoch 152 | average valid loss: 0.0481
+2023-11-03 11:11:31 INFO     	 Epoch 153 | average train loss: 0.0454
+2023-11-03 11:11:32 INFO     	 Epoch 153 | average valid loss: 0.0473
+2023-11-03 11:11:56 INFO     	 Epoch 154 | average train loss: 0.0453
+2023-11-03 11:11:56 INFO     	 Epoch 154 | average valid loss: 0.0480
+2023-11-03 11:12:19 INFO     global:	 valid MR: 163.27 | MRR: 0.324 | H@1: 0.235 | H@3: 0.352 | H@10: 0.505
+2023-11-03 11:12:19 INFO     local: 	 valid MR: 165.27 | MRR: 0.326 | H@1: 0.237 | H@3: 0.357 | H@10: 0.507
+2023-11-03 11:12:19 INFO     both:  	 valid MR: 152.71 | MRR: 0.331 | H@1: 0.241 | H@3: 0.363 | H@10: 0.513
+2023-11-03 11:12:19 INFO     global:	 test MR: 174.35 | MRR: 0.321 | H@1: 0.230 | H@3: 0.352 | H@10: 0.503
+2023-11-03 11:12:19 INFO     local: 	 test MR: 175.12 | MRR: 0.323 | H@1: 0.232 | H@3: 0.353 | H@10: 0.506
+2023-11-03 11:12:19 INFO     both:  	 test MR: 161.67 | MRR: 0.329 | H@1: 0.237 | H@3: 0.361 | H@10: 0.512
+2023-11-03 11:12:19 INFO     	 Saving model at epoch 154 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 11:12:43 INFO     	 Epoch 155 | average train loss: 0.0453
+2023-11-03 11:12:43 INFO     	 Epoch 155 | average valid loss: 0.0485
+2023-11-03 11:13:07 INFO     	 Epoch 156 | average train loss: 0.0453
+2023-11-03 11:13:07 INFO     	 Epoch 156 | average valid loss: 0.0487
+2023-11-03 11:13:31 INFO     	 Epoch 157 | average train loss: 0.0453
+2023-11-03 11:13:31 INFO     	 Epoch 157 | average valid loss: 0.0487
+2023-11-03 11:13:55 INFO     	 Epoch 158 | average train loss: 0.0453
+2023-11-03 11:13:55 INFO     	 Epoch 158 | average valid loss: 0.0487
+2023-11-03 11:14:19 INFO     	 Epoch 159 | average train loss: 0.0453
+2023-11-03 11:14:19 INFO     	 Epoch 159 | average valid loss: 0.0473
+2023-11-03 11:14:43 INFO     global:	 valid MR: 163.43 | MRR: 0.324 | H@1: 0.235 | H@3: 0.353 | H@10: 0.505
+2023-11-03 11:14:43 INFO     local: 	 valid MR: 165.59 | MRR: 0.325 | H@1: 0.235 | H@3: 0.357 | H@10: 0.507
+2023-11-03 11:14:43 INFO     both:  	 valid MR: 152.85 | MRR: 0.331 | H@1: 0.240 | H@3: 0.364 | H@10: 0.514
+2023-11-03 11:14:43 INFO     global:	 test MR: 174.73 | MRR: 0.320 | H@1: 0.229 | H@3: 0.352 | H@10: 0.503
+2023-11-03 11:14:43 INFO     local: 	 test MR: 175.41 | MRR: 0.322 | H@1: 0.230 | H@3: 0.354 | H@10: 0.505
+2023-11-03 11:14:43 INFO     both:  	 test MR: 161.94 | MRR: 0.328 | H@1: 0.236 | H@3: 0.360 | H@10: 0.511
+2023-11-03 11:15:06 INFO     	 Epoch 160 | average train loss: 0.0453
+2023-11-03 11:15:06 INFO     	 Epoch 160 | average valid loss: 0.0488
+2023-11-03 11:15:30 INFO     	 Epoch 161 | average train loss: 0.0453
+2023-11-03 11:15:30 INFO     	 Epoch 161 | average valid loss: 0.0477
+2023-11-03 11:15:53 INFO     	 Epoch 162 | average train loss: 0.0453
+2023-11-03 11:15:54 INFO     	 Epoch 162 | average valid loss: 0.0486
+2023-11-03 11:16:18 INFO     	 Epoch 163 | average train loss: 0.0452
+2023-11-03 11:16:18 INFO     	 Epoch 163 | average valid loss: 0.0487
+2023-11-03 11:16:41 INFO     	 Epoch 164 | average train loss: 0.0453
+2023-11-03 11:16:41 INFO     	 Epoch 164 | average valid loss: 0.0491
+2023-11-03 11:17:06 INFO     global:	 valid MR: 163.16 | MRR: 0.324 | H@1: 0.235 | H@3: 0.352 | H@10: 0.506
+2023-11-03 11:17:06 INFO     local: 	 valid MR: 165.02 | MRR: 0.326 | H@1: 0.236 | H@3: 0.357 | H@10: 0.507
+2023-11-03 11:17:06 INFO     both:  	 valid MR: 152.52 | MRR: 0.332 | H@1: 0.241 | H@3: 0.363 | H@10: 0.513
+2023-11-03 11:17:06 INFO     global:	 test MR: 174.45 | MRR: 0.320 | H@1: 0.230 | H@3: 0.351 | H@10: 0.504
+2023-11-03 11:17:06 INFO     local: 	 test MR: 175.17 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.505
+2023-11-03 11:17:06 INFO     both:  	 test MR: 161.69 | MRR: 0.328 | H@1: 0.236 | H@3: 0.360 | H@10: 0.512
+2023-11-03 11:17:06 INFO     	 Saving model at epoch 164 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 11:17:29 INFO     	 Epoch 165 | average train loss: 0.0453
+2023-11-03 11:17:29 INFO     	 Epoch 165 | average valid loss: 0.0486
+2023-11-03 11:17:52 INFO     	 Epoch 166 | average train loss: 0.0452
+2023-11-03 11:17:53 INFO     	 Epoch 166 | average valid loss: 0.0483
+2023-11-03 11:18:16 INFO     	 Epoch 167 | average train loss: 0.0452
+2023-11-03 11:18:17 INFO     	 Epoch 167 | average valid loss: 0.0484
+2023-11-03 11:18:40 INFO     	 Epoch 168 | average train loss: 0.0453
+2023-11-03 11:18:40 INFO     	 Epoch 168 | average valid loss: 0.0481
+2023-11-03 11:19:04 INFO     	 Epoch 169 | average train loss: 0.0452
+2023-11-03 11:19:04 INFO     	 Epoch 169 | average valid loss: 0.0486
+2023-11-03 11:19:29 INFO     global:	 valid MR: 163.79 | MRR: 0.324 | H@1: 0.234 | H@3: 0.353 | H@10: 0.505
+2023-11-03 11:19:29 INFO     local: 	 valid MR: 165.78 | MRR: 0.325 | H@1: 0.235 | H@3: 0.357 | H@10: 0.507
+2023-11-03 11:19:29 INFO     both:  	 valid MR: 153.05 | MRR: 0.331 | H@1: 0.240 | H@3: 0.363 | H@10: 0.513
+2023-11-03 11:19:29 INFO     global:	 test MR: 174.97 | MRR: 0.321 | H@1: 0.229 | H@3: 0.353 | H@10: 0.503
+2023-11-03 11:19:29 INFO     local: 	 test MR: 175.53 | MRR: 0.321 | H@1: 0.230 | H@3: 0.354 | H@10: 0.505
+2023-11-03 11:19:29 INFO     both:  	 test MR: 162.11 | MRR: 0.328 | H@1: 0.235 | H@3: 0.361 | H@10: 0.511
+2023-11-03 11:19:52 INFO     	 Epoch 170 | average train loss: 0.0452
+2023-11-03 11:19:53 INFO     	 Epoch 170 | average valid loss: 0.0487
+2023-11-03 11:20:16 INFO     	 Epoch 171 | average train loss: 0.0452
+2023-11-03 11:20:16 INFO     	 Epoch 171 | average valid loss: 0.0482
+2023-11-03 11:20:39 INFO     	 Epoch 172 | average train loss: 0.0452
+2023-11-03 11:20:40 INFO     	 Epoch 172 | average valid loss: 0.0485
+2023-11-03 11:21:03 INFO     	 Epoch 173 | average train loss: 0.0452
+2023-11-03 11:21:03 INFO     	 Epoch 173 | average valid loss: 0.0484
+2023-11-03 11:21:27 INFO     	 Epoch 174 | average train loss: 0.0452
+2023-11-03 11:21:27 INFO     	 Epoch 174 | average valid loss: 0.0484
+2023-11-03 11:21:52 INFO     global:	 valid MR: 164.09 | MRR: 0.323 | H@1: 0.234 | H@3: 0.351 | H@10: 0.505
+2023-11-03 11:21:52 INFO     local: 	 valid MR: 166.02 | MRR: 0.326 | H@1: 0.237 | H@3: 0.356 | H@10: 0.507
+2023-11-03 11:21:52 INFO     both:  	 valid MR: 153.26 | MRR: 0.331 | H@1: 0.241 | H@3: 0.363 | H@10: 0.512
+2023-11-03 11:21:52 INFO     global:	 test MR: 175.09 | MRR: 0.320 | H@1: 0.229 | H@3: 0.350 | H@10: 0.504
+2023-11-03 11:21:52 INFO     local: 	 test MR: 175.51 | MRR: 0.322 | H@1: 0.230 | H@3: 0.353 | H@10: 0.505
+2023-11-03 11:21:52 INFO     both:  	 test MR: 162.04 | MRR: 0.328 | H@1: 0.236 | H@3: 0.360 | H@10: 0.511
+2023-11-03 11:22:15 INFO     	 Epoch 175 | average train loss: 0.0452
+2023-11-03 11:22:16 INFO     	 Epoch 175 | average valid loss: 0.0485
+2023-11-03 11:22:39 INFO     	 Epoch 176 | average train loss: 0.0452
+2023-11-03 11:22:39 INFO     	 Epoch 176 | average valid loss: 0.0481
+2023-11-03 11:23:03 INFO     	 Epoch 177 | average train loss: 0.0452
+2023-11-03 11:23:03 INFO     	 Epoch 177 | average valid loss: 0.0485
+2023-11-03 11:23:27 INFO     	 Epoch 178 | average train loss: 0.0451
+2023-11-03 11:23:27 INFO     	 Epoch 178 | average valid loss: 0.0486
+2023-11-03 11:23:50 INFO     	 Epoch 179 | average train loss: 0.0451
+2023-11-03 11:23:51 INFO     	 Epoch 179 | average valid loss: 0.0486
+2023-11-03 11:24:16 INFO     global:	 valid MR: 164.09 | MRR: 0.324 | H@1: 0.235 | H@3: 0.353 | H@10: 0.505
+2023-11-03 11:24:16 INFO     local: 	 valid MR: 166.13 | MRR: 0.326 | H@1: 0.236 | H@3: 0.356 | H@10: 0.506
+2023-11-03 11:24:16 INFO     both:  	 valid MR: 153.32 | MRR: 0.331 | H@1: 0.240 | H@3: 0.363 | H@10: 0.512
+2023-11-03 11:24:16 INFO     global:	 test MR: 175.31 | MRR: 0.320 | H@1: 0.229 | H@3: 0.353 | H@10: 0.504
+2023-11-03 11:24:16 INFO     local: 	 test MR: 175.94 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 11:24:16 INFO     both:  	 test MR: 162.29 | MRR: 0.328 | H@1: 0.236 | H@3: 0.362 | H@10: 0.511
+2023-11-03 11:24:39 INFO     	 Epoch 180 | average train loss: 0.0451
+2023-11-03 11:24:40 INFO     	 Epoch 180 | average valid loss: 0.0481
+2023-11-03 11:25:03 INFO     	 Epoch 181 | average train loss: 0.0451
+2023-11-03 11:25:03 INFO     	 Epoch 181 | average valid loss: 0.0493
+2023-11-03 11:25:27 INFO     	 Epoch 182 | average train loss: 0.0451
+2023-11-03 11:25:27 INFO     	 Epoch 182 | average valid loss: 0.0492
+2023-11-03 11:25:51 INFO     	 Epoch 183 | average train loss: 0.0451
+2023-11-03 11:25:51 INFO     	 Epoch 183 | average valid loss: 0.0487
+2023-11-03 11:26:14 INFO     	 Epoch 184 | average train loss: 0.0451
+2023-11-03 11:26:15 INFO     	 Epoch 184 | average valid loss: 0.0492
+2023-11-03 11:26:41 INFO     global:	 valid MR: 163.98 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.504
+2023-11-03 11:26:41 INFO     local: 	 valid MR: 165.81 | MRR: 0.326 | H@1: 0.236 | H@3: 0.357 | H@10: 0.506
+2023-11-03 11:26:41 INFO     both:  	 valid MR: 153.19 | MRR: 0.331 | H@1: 0.240 | H@3: 0.364 | H@10: 0.512
+2023-11-03 11:26:41 INFO     global:	 test MR: 175.44 | MRR: 0.320 | H@1: 0.229 | H@3: 0.354 | H@10: 0.504
+2023-11-03 11:26:41 INFO     local: 	 test MR: 176.32 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 11:26:41 INFO     both:  	 test MR: 162.50 | MRR: 0.327 | H@1: 0.235 | H@3: 0.363 | H@10: 0.511
+2023-11-03 11:27:05 INFO     	 Epoch 185 | average train loss: 0.0451
+2023-11-03 11:27:05 INFO     	 Epoch 185 | average valid loss: 0.0483
+2023-11-03 11:27:29 INFO     	 Epoch 186 | average train loss: 0.0451
+2023-11-03 11:27:29 INFO     	 Epoch 186 | average valid loss: 0.0492
+2023-11-03 11:27:54 INFO     	 Epoch 187 | average train loss: 0.0451
+2023-11-03 11:27:54 INFO     	 Epoch 187 | average valid loss: 0.0485
+2023-11-03 11:28:18 INFO     	 Epoch 188 | average train loss: 0.0451
+2023-11-03 11:28:18 INFO     	 Epoch 188 | average valid loss: 0.0490
+2023-11-03 11:28:42 INFO     	 Epoch 189 | average train loss: 0.0451
+2023-11-03 11:28:43 INFO     	 Epoch 189 | average valid loss: 0.0481
+2023-11-03 11:29:10 INFO     global:	 valid MR: 164.00 | MRR: 0.323 | H@1: 0.233 | H@3: 0.352 | H@10: 0.505
+2023-11-03 11:29:10 INFO     local: 	 valid MR: 166.21 | MRR: 0.325 | H@1: 0.235 | H@3: 0.355 | H@10: 0.506
+2023-11-03 11:29:10 INFO     both:  	 valid MR: 153.36 | MRR: 0.330 | H@1: 0.239 | H@3: 0.361 | H@10: 0.512
+2023-11-03 11:29:10 INFO     global:	 test MR: 175.64 | MRR: 0.319 | H@1: 0.228 | H@3: 0.350 | H@10: 0.504
+2023-11-03 11:29:10 INFO     local: 	 test MR: 176.36 | MRR: 0.321 | H@1: 0.229 | H@3: 0.352 | H@10: 0.505
+2023-11-03 11:29:10 INFO     both:  	 test MR: 162.56 | MRR: 0.327 | H@1: 0.235 | H@3: 0.360 | H@10: 0.511
+2023-11-03 11:29:34 INFO     	 Epoch 190 | average train loss: 0.0450
+2023-11-03 11:29:34 INFO     	 Epoch 190 | average valid loss: 0.0488
+2023-11-03 11:29:57 INFO     	 Epoch 191 | average train loss: 0.0450
+2023-11-03 11:29:58 INFO     	 Epoch 191 | average valid loss: 0.0485
+2023-11-03 11:30:21 INFO     	 Epoch 192 | average train loss: 0.0450
+2023-11-03 11:30:21 INFO     	 Epoch 192 | average valid loss: 0.0484
+2023-11-03 11:30:45 INFO     	 Epoch 193 | average train loss: 0.0450
+2023-11-03 11:30:45 INFO     	 Epoch 193 | average valid loss: 0.0485
+2023-11-03 11:31:09 INFO     	 Epoch 194 | average train loss: 0.0451
+2023-11-03 11:31:09 INFO     	 Epoch 194 | average valid loss: 0.0492
+2023-11-03 11:31:38 INFO     global:	 valid MR: 164.04 | MRR: 0.323 | H@1: 0.233 | H@3: 0.354 | H@10: 0.506
+2023-11-03 11:31:38 INFO     local: 	 valid MR: 166.27 | MRR: 0.326 | H@1: 0.236 | H@3: 0.358 | H@10: 0.507
+2023-11-03 11:31:38 INFO     both:  	 valid MR: 153.37 | MRR: 0.331 | H@1: 0.241 | H@3: 0.364 | H@10: 0.512
+2023-11-03 11:31:38 INFO     global:	 test MR: 176.02 | MRR: 0.319 | H@1: 0.227 | H@3: 0.351 | H@10: 0.504
+2023-11-03 11:31:38 INFO     local: 	 test MR: 176.59 | MRR: 0.322 | H@1: 0.230 | H@3: 0.354 | H@10: 0.505
+2023-11-03 11:31:38 INFO     both:  	 test MR: 162.73 | MRR: 0.328 | H@1: 0.236 | H@3: 0.361 | H@10: 0.511
+2023-11-03 11:32:01 INFO     	 Epoch 195 | average train loss: 0.0450
+2023-11-03 11:32:02 INFO     	 Epoch 195 | average valid loss: 0.0487
+2023-11-03 11:32:25 INFO     	 Epoch 196 | average train loss: 0.0450
+2023-11-03 11:32:25 INFO     	 Epoch 196 | average valid loss: 0.0488
+2023-11-03 11:32:49 INFO     	 Epoch 197 | average train loss: 0.0450
+2023-11-03 11:32:49 INFO     	 Epoch 197 | average valid loss: 0.0494
+2023-11-03 11:33:13 INFO     	 Epoch 198 | average train loss: 0.0450
+2023-11-03 11:33:13 INFO     	 Epoch 198 | average valid loss: 0.0489
+2023-11-03 11:33:37 INFO     	 Epoch 199 | average train loss: 0.0450
+2023-11-03 11:33:38 INFO     	 Epoch 199 | average valid loss: 0.0488
+2023-11-03 11:34:05 INFO     global:	 valid MR: 164.04 | MRR: 0.324 | H@1: 0.235 | H@3: 0.353 | H@10: 0.505
+2023-11-03 11:34:05 INFO     local: 	 valid MR: 166.60 | MRR: 0.325 | H@1: 0.235 | H@3: 0.357 | H@10: 0.508
+2023-11-03 11:34:05 INFO     both:  	 valid MR: 153.42 | MRR: 0.331 | H@1: 0.241 | H@3: 0.362 | H@10: 0.513
+2023-11-03 11:34:05 INFO     global:	 test MR: 175.77 | MRR: 0.320 | H@1: 0.229 | H@3: 0.352 | H@10: 0.504
+2023-11-03 11:34:05 INFO     local: 	 test MR: 176.62 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.506
+2023-11-03 11:34:05 INFO     both:  	 test MR: 162.57 | MRR: 0.328 | H@1: 0.236 | H@3: 0.361 | H@10: 0.513
+2023-11-03 11:34:30 INFO     	 Epoch 200 | average train loss: 0.0450
+2023-11-03 11:34:30 INFO     	 Epoch 200 | average valid loss: 0.0487
+2023-11-03 11:34:54 INFO     	 Epoch 201 | average train loss: 0.0449
+2023-11-03 11:34:55 INFO     	 Epoch 201 | average valid loss: 0.0490
+2023-11-03 11:35:19 INFO     	 Epoch 202 | average train loss: 0.0450
+2023-11-03 11:35:19 INFO     	 Epoch 202 | average valid loss: 0.0490
+2023-11-03 11:35:42 INFO     	 Epoch 203 | average train loss: 0.0449
+2023-11-03 11:35:43 INFO     	 Epoch 203 | average valid loss: 0.0483
+2023-11-03 11:36:07 INFO     	 Epoch 204 | average train loss: 0.0449
+2023-11-03 11:36:07 INFO     	 Epoch 204 | average valid loss: 0.0486
+2023-11-03 11:36:37 INFO     global:	 valid MR: 164.34 | MRR: 0.323 | H@1: 0.234 | H@3: 0.352 | H@10: 0.504
+2023-11-03 11:36:37 INFO     local: 	 valid MR: 166.59 | MRR: 0.326 | H@1: 0.236 | H@3: 0.356 | H@10: 0.506
+2023-11-03 11:36:37 INFO     both:  	 valid MR: 153.58 | MRR: 0.331 | H@1: 0.241 | H@3: 0.362 | H@10: 0.513
+2023-11-03 11:36:37 INFO     global:	 test MR: 176.09 | MRR: 0.319 | H@1: 0.227 | H@3: 0.350 | H@10: 0.503
+2023-11-03 11:36:37 INFO     local: 	 test MR: 176.89 | MRR: 0.322 | H@1: 0.230 | H@3: 0.353 | H@10: 0.505
+2023-11-03 11:36:37 INFO     both:  	 test MR: 162.86 | MRR: 0.327 | H@1: 0.235 | H@3: 0.360 | H@10: 0.511
+2023-11-03 11:37:00 INFO     	 Epoch 205 | average train loss: 0.0449
+2023-11-03 11:37:00 INFO     	 Epoch 205 | average valid loss: 0.0483
+2023-11-03 11:37:24 INFO     	 Epoch 206 | average train loss: 0.0450
+2023-11-03 11:37:24 INFO     	 Epoch 206 | average valid loss: 0.0490
+2023-11-03 11:37:48 INFO     	 Epoch 207 | average train loss: 0.0449
+2023-11-03 11:37:48 INFO     	 Epoch 207 | average valid loss: 0.0488
+2023-11-03 11:38:12 INFO     	 Epoch 208 | average train loss: 0.0449
+2023-11-03 11:38:12 INFO     	 Epoch 208 | average valid loss: 0.0483
+2023-11-03 11:38:36 INFO     	 Epoch 209 | average train loss: 0.0449
+2023-11-03 11:38:36 INFO     	 Epoch 209 | average valid loss: 0.0493
+2023-11-03 11:39:07 INFO     global:	 valid MR: 164.27 | MRR: 0.323 | H@1: 0.234 | H@3: 0.353 | H@10: 0.505
+2023-11-03 11:39:07 INFO     local: 	 valid MR: 166.64 | MRR: 0.326 | H@1: 0.237 | H@3: 0.358 | H@10: 0.507
+2023-11-03 11:39:07 INFO     both:  	 valid MR: 153.50 | MRR: 0.331 | H@1: 0.241 | H@3: 0.364 | H@10: 0.512
+2023-11-03 11:39:07 INFO     global:	 test MR: 176.10 | MRR: 0.320 | H@1: 0.229 | H@3: 0.351 | H@10: 0.504
+2023-11-03 11:39:07 INFO     local: 	 test MR: 177.16 | MRR: 0.322 | H@1: 0.231 | H@3: 0.354 | H@10: 0.505
+2023-11-03 11:39:07 INFO     both:  	 test MR: 162.99 | MRR: 0.327 | H@1: 0.235 | H@3: 0.361 | H@10: 0.512
+2023-11-03 11:39:30 INFO     	 Epoch 210 | average train loss: 0.0449
+2023-11-03 11:39:30 INFO     	 Epoch 210 | average valid loss: 0.0488
+2023-11-03 11:39:54 INFO     	 Epoch 211 | average train loss: 0.0449
+2023-11-03 11:39:55 INFO     	 Epoch 211 | average valid loss: 0.0486
+2023-11-03 11:40:18 INFO     	 Epoch 212 | average train loss: 0.0449
+2023-11-03 11:40:18 INFO     	 Epoch 212 | average valid loss: 0.0489
+2023-11-03 11:40:42 INFO     	 Epoch 213 | average train loss: 0.0449
+2023-11-03 11:40:42 INFO     	 Epoch 213 | average valid loss: 0.0485
+2023-11-03 11:41:06 INFO     	 Epoch 214 | average train loss: 0.0449
+2023-11-03 11:41:06 INFO     	 Epoch 214 | average valid loss: 0.0489
+2023-11-03 11:41:37 INFO     global:	 valid MR: 164.89 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.505
+2023-11-03 11:41:37 INFO     local: 	 valid MR: 167.04 | MRR: 0.326 | H@1: 0.236 | H@3: 0.357 | H@10: 0.507
+2023-11-03 11:41:37 INFO     both:  	 valid MR: 153.95 | MRR: 0.331 | H@1: 0.240 | H@3: 0.363 | H@10: 0.513
+2023-11-03 11:41:37 INFO     global:	 test MR: 176.27 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.503
+2023-11-03 11:41:37 INFO     local: 	 test MR: 177.21 | MRR: 0.323 | H@1: 0.232 | H@3: 0.354 | H@10: 0.506
+2023-11-03 11:41:37 INFO     both:  	 test MR: 163.03 | MRR: 0.328 | H@1: 0.236 | H@3: 0.362 | H@10: 0.512
+2023-11-03 11:42:01 INFO     	 Epoch 215 | average train loss: 0.0447
+2023-11-03 11:42:01 INFO     	 Epoch 215 | average valid loss: 0.0482
+2023-11-03 11:42:24 INFO     	 Epoch 216 | average train loss: 0.0447
+2023-11-03 11:42:25 INFO     	 Epoch 216 | average valid loss: 0.0490
+2023-11-03 11:42:49 INFO     	 Epoch 217 | average train loss: 0.0447
+2023-11-03 11:42:49 INFO     	 Epoch 217 | average valid loss: 0.0489
+2023-11-03 11:43:13 INFO     	 Epoch 218 | average train loss: 0.0446
+2023-11-03 11:43:13 INFO     	 Epoch 218 | average valid loss: 0.0484
+2023-11-03 11:43:38 INFO     	 Epoch 219 | average train loss: 0.0447
+2023-11-03 11:43:38 INFO     	 Epoch 219 | average valid loss: 0.0496
+2023-11-03 11:44:10 INFO     global:	 valid MR: 164.60 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.505
+2023-11-03 11:44:10 INFO     local: 	 valid MR: 166.88 | MRR: 0.327 | H@1: 0.237 | H@3: 0.359 | H@10: 0.507
+2023-11-03 11:44:10 INFO     both:  	 valid MR: 153.76 | MRR: 0.332 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 11:44:10 INFO     global:	 test MR: 176.29 | MRR: 0.321 | H@1: 0.229 | H@3: 0.353 | H@10: 0.505
+2023-11-03 11:44:10 INFO     local: 	 test MR: 177.19 | MRR: 0.323 | H@1: 0.232 | H@3: 0.356 | H@10: 0.506
+2023-11-03 11:44:10 INFO     both:  	 test MR: 163.02 | MRR: 0.328 | H@1: 0.236 | H@3: 0.363 | H@10: 0.512
+2023-11-03 11:44:10 INFO     	 Saving model at epoch 219 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 11:44:34 INFO     	 Epoch 220 | average train loss: 0.0446
+2023-11-03 11:44:35 INFO     	 Epoch 220 | average valid loss: 0.0494
+2023-11-03 11:44:58 INFO     	 Epoch 221 | average train loss: 0.0447
+2023-11-03 11:44:59 INFO     	 Epoch 221 | average valid loss: 0.0489
+2023-11-03 11:45:22 INFO     	 Epoch 222 | average train loss: 0.0446
+2023-11-03 11:45:22 INFO     	 Epoch 222 | average valid loss: 0.0492
+2023-11-03 11:45:46 INFO     	 Epoch 223 | average train loss: 0.0446
+2023-11-03 11:45:46 INFO     	 Epoch 223 | average valid loss: 0.0494
+2023-11-03 11:46:10 INFO     	 Epoch 224 | average train loss: 0.0446
+2023-11-03 11:46:10 INFO     	 Epoch 224 | average valid loss: 0.0489
+2023-11-03 11:46:41 INFO     global:	 valid MR: 164.66 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.505
+2023-11-03 11:46:41 INFO     local: 	 valid MR: 167.11 | MRR: 0.327 | H@1: 0.237 | H@3: 0.357 | H@10: 0.507
+2023-11-03 11:46:41 INFO     both:  	 valid MR: 153.87 | MRR: 0.332 | H@1: 0.242 | H@3: 0.363 | H@10: 0.513
+2023-11-03 11:46:41 INFO     global:	 test MR: 176.38 | MRR: 0.321 | H@1: 0.230 | H@3: 0.352 | H@10: 0.504
+2023-11-03 11:46:41 INFO     local: 	 test MR: 177.52 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 11:46:41 INFO     both:  	 test MR: 163.26 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.511
+2023-11-03 11:47:05 INFO     	 Epoch 225 | average train loss: 0.0446
+2023-11-03 11:47:05 INFO     	 Epoch 225 | average valid loss: 0.0500
+2023-11-03 11:47:29 INFO     	 Epoch 226 | average train loss: 0.0446
+2023-11-03 11:47:29 INFO     	 Epoch 226 | average valid loss: 0.0486
+2023-11-03 11:47:53 INFO     	 Epoch 227 | average train loss: 0.0446
+2023-11-03 11:47:53 INFO     	 Epoch 227 | average valid loss: 0.0491
+2023-11-03 11:48:17 INFO     	 Epoch 228 | average train loss: 0.0446
+2023-11-03 11:48:17 INFO     	 Epoch 228 | average valid loss: 0.0486
+2023-11-03 11:48:41 INFO     	 Epoch 229 | average train loss: 0.0446
+2023-11-03 11:48:41 INFO     	 Epoch 229 | average valid loss: 0.0487
+2023-11-03 11:49:12 INFO     global:	 valid MR: 164.44 | MRR: 0.324 | H@1: 0.234 | H@3: 0.353 | H@10: 0.506
+2023-11-03 11:49:12 INFO     local: 	 valid MR: 166.87 | MRR: 0.327 | H@1: 0.237 | H@3: 0.358 | H@10: 0.508
+2023-11-03 11:49:12 INFO     both:  	 valid MR: 153.65 | MRR: 0.332 | H@1: 0.242 | H@3: 0.362 | H@10: 0.514
+2023-11-03 11:49:12 INFO     global:	 test MR: 176.31 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 11:49:12 INFO     local: 	 test MR: 177.29 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 11:49:12 INFO     both:  	 test MR: 163.08 | MRR: 0.328 | H@1: 0.236 | H@3: 0.363 | H@10: 0.513
+2023-11-03 11:49:36 INFO     	 Epoch 230 | average train loss: 0.0446
+2023-11-03 11:49:36 INFO     	 Epoch 230 | average valid loss: 0.0499
+2023-11-03 11:49:59 INFO     	 Epoch 231 | average train loss: 0.0446
+2023-11-03 11:50:00 INFO     	 Epoch 231 | average valid loss: 0.0491
+2023-11-03 11:50:23 INFO     	 Epoch 232 | average train loss: 0.0446
+2023-11-03 11:50:23 INFO     	 Epoch 232 | average valid loss: 0.0490
+2023-11-03 11:50:47 INFO     	 Epoch 233 | average train loss: 0.0445
+2023-11-03 11:50:47 INFO     	 Epoch 233 | average valid loss: 0.0495
+2023-11-03 11:51:10 INFO     	 Epoch 234 | average train loss: 0.0446
+2023-11-03 11:51:11 INFO     	 Epoch 234 | average valid loss: 0.0491
+2023-11-03 11:51:42 INFO     global:	 valid MR: 164.65 | MRR: 0.324 | H@1: 0.235 | H@3: 0.353 | H@10: 0.506
+2023-11-03 11:51:42 INFO     local: 	 valid MR: 167.26 | MRR: 0.327 | H@1: 0.237 | H@3: 0.358 | H@10: 0.507
+2023-11-03 11:51:42 INFO     both:  	 valid MR: 153.90 | MRR: 0.332 | H@1: 0.242 | H@3: 0.363 | H@10: 0.513
+2023-11-03 11:51:42 INFO     global:	 test MR: 176.47 | MRR: 0.321 | H@1: 0.230 | H@3: 0.352 | H@10: 0.505
+2023-11-03 11:51:42 INFO     local: 	 test MR: 177.49 | MRR: 0.323 | H@1: 0.232 | H@3: 0.354 | H@10: 0.506
+2023-11-03 11:51:42 INFO     both:  	 test MR: 163.24 | MRR: 0.328 | H@1: 0.236 | H@3: 0.363 | H@10: 0.512
+2023-11-03 11:51:42 INFO     	 Saving model at epoch 234 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 11:52:05 INFO     	 Epoch 235 | average train loss: 0.0446
+2023-11-03 11:52:06 INFO     	 Epoch 235 | average valid loss: 0.0500
+2023-11-03 11:52:29 INFO     	 Epoch 236 | average train loss: 0.0445
+2023-11-03 11:52:29 INFO     	 Epoch 236 | average valid loss: 0.0495
+2023-11-03 11:52:53 INFO     	 Epoch 237 | average train loss: 0.0446
+2023-11-03 11:52:53 INFO     	 Epoch 237 | average valid loss: 0.0494
+2023-11-03 11:53:16 INFO     	 Epoch 238 | average train loss: 0.0446
+2023-11-03 11:53:17 INFO     	 Epoch 238 | average valid loss: 0.0491
+2023-11-03 11:53:40 INFO     	 Epoch 239 | average train loss: 0.0445
+2023-11-03 11:53:40 INFO     	 Epoch 239 | average valid loss: 0.0482
+2023-11-03 11:54:13 INFO     global:	 valid MR: 164.47 | MRR: 0.324 | H@1: 0.235 | H@3: 0.353 | H@10: 0.506
+2023-11-03 11:54:13 INFO     local: 	 valid MR: 166.99 | MRR: 0.326 | H@1: 0.236 | H@3: 0.359 | H@10: 0.507
+2023-11-03 11:54:13 INFO     both:  	 valid MR: 153.70 | MRR: 0.332 | H@1: 0.241 | H@3: 0.363 | H@10: 0.513
+2023-11-03 11:54:13 INFO     global:	 test MR: 176.37 | MRR: 0.321 | H@1: 0.231 | H@3: 0.353 | H@10: 0.505
+2023-11-03 11:54:13 INFO     local: 	 test MR: 177.42 | MRR: 0.324 | H@1: 0.233 | H@3: 0.355 | H@10: 0.505
+2023-11-03 11:54:13 INFO     both:  	 test MR: 163.18 | MRR: 0.329 | H@1: 0.236 | H@3: 0.363 | H@10: 0.512
+2023-11-03 11:54:37 INFO     	 Epoch 240 | average train loss: 0.0446
+2023-11-03 11:54:37 INFO     	 Epoch 240 | average valid loss: 0.0488
+2023-11-03 11:55:00 INFO     	 Epoch 241 | average train loss: 0.0446
+2023-11-03 11:55:01 INFO     	 Epoch 241 | average valid loss: 0.0494
+2023-11-03 11:55:24 INFO     	 Epoch 242 | average train loss: 0.0445
+2023-11-03 11:55:25 INFO     	 Epoch 242 | average valid loss: 0.0488
+2023-11-03 11:55:48 INFO     	 Epoch 243 | average train loss: 0.0445
+2023-11-03 11:55:48 INFO     	 Epoch 243 | average valid loss: 0.0485
+2023-11-03 11:56:12 INFO     	 Epoch 244 | average train loss: 0.0446
+2023-11-03 11:56:12 INFO     	 Epoch 244 | average valid loss: 0.0487
+2023-11-03 11:56:45 INFO     global:	 valid MR: 164.58 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.506
+2023-11-03 11:56:45 INFO     local: 	 valid MR: 167.07 | MRR: 0.327 | H@1: 0.237 | H@3: 0.359 | H@10: 0.507
+2023-11-03 11:56:45 INFO     both:  	 valid MR: 153.74 | MRR: 0.332 | H@1: 0.241 | H@3: 0.363 | H@10: 0.514
+2023-11-03 11:56:45 INFO     global:	 test MR: 176.44 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.505
+2023-11-03 11:56:45 INFO     local: 	 test MR: 177.49 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 11:56:45 INFO     both:  	 test MR: 163.22 | MRR: 0.329 | H@1: 0.236 | H@3: 0.363 | H@10: 0.514
+2023-11-03 11:57:09 INFO     	 Epoch 245 | average train loss: 0.0445
+2023-11-03 11:57:09 INFO     	 Epoch 245 | average valid loss: 0.0480
+2023-11-03 11:57:33 INFO     	 Epoch 246 | average train loss: 0.0446
+2023-11-03 11:57:33 INFO     	 Epoch 246 | average valid loss: 0.0491
+2023-11-03 11:57:57 INFO     	 Epoch 247 | average train loss: 0.0445
+2023-11-03 11:57:57 INFO     	 Epoch 247 | average valid loss: 0.0485
+2023-11-03 11:58:21 INFO     	 Epoch 248 | average train loss: 0.0445
+2023-11-03 11:58:21 INFO     	 Epoch 248 | average valid loss: 0.0488
+2023-11-03 11:58:44 INFO     	 Epoch 249 | average train loss: 0.0445
+2023-11-03 11:58:45 INFO     	 Epoch 249 | average valid loss: 0.0494
+2023-11-03 11:59:18 INFO     global:	 valid MR: 164.74 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.506
+2023-11-03 11:59:18 INFO     local: 	 valid MR: 167.38 | MRR: 0.327 | H@1: 0.237 | H@3: 0.358 | H@10: 0.507
+2023-11-03 11:59:18 INFO     both:  	 valid MR: 153.98 | MRR: 0.332 | H@1: 0.241 | H@3: 0.363 | H@10: 0.513
+2023-11-03 11:59:18 INFO     global:	 test MR: 176.53 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 11:59:18 INFO     local: 	 test MR: 177.62 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 11:59:18 INFO     both:  	 test MR: 163.30 | MRR: 0.329 | H@1: 0.237 | H@3: 0.362 | H@10: 0.512
+2023-11-03 11:59:41 INFO     	 Epoch 250 | average train loss: 0.0445
+2023-11-03 11:59:42 INFO     	 Epoch 250 | average valid loss: 0.0488
+2023-11-03 12:00:05 INFO     	 Epoch 251 | average train loss: 0.0445
+2023-11-03 12:00:05 INFO     	 Epoch 251 | average valid loss: 0.0485
+2023-11-03 12:00:29 INFO     	 Epoch 252 | average train loss: 0.0445
+2023-11-03 12:00:30 INFO     	 Epoch 252 | average valid loss: 0.0489
+2023-11-03 12:00:53 INFO     	 Epoch 253 | average train loss: 0.0445
+2023-11-03 12:00:53 INFO     	 Epoch 253 | average valid loss: 0.0485
+2023-11-03 12:01:17 INFO     	 Epoch 254 | average train loss: 0.0445
+2023-11-03 12:01:17 INFO     	 Epoch 254 | average valid loss: 0.0492
+2023-11-03 12:01:53 INFO     global:	 valid MR: 164.77 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 12:01:53 INFO     local: 	 valid MR: 167.25 | MRR: 0.327 | H@1: 0.237 | H@3: 0.359 | H@10: 0.507
+2023-11-03 12:01:53 INFO     both:  	 valid MR: 153.96 | MRR: 0.332 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:01:53 INFO     global:	 test MR: 176.67 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:01:53 INFO     local: 	 test MR: 177.78 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 12:01:53 INFO     both:  	 test MR: 163.45 | MRR: 0.328 | H@1: 0.236 | H@3: 0.362 | H@10: 0.512
+2023-11-03 12:02:16 INFO     	 Epoch 255 | average train loss: 0.0444
+2023-11-03 12:02:16 INFO     	 Epoch 255 | average valid loss: 0.0491
+2023-11-03 12:02:39 INFO     	 Epoch 256 | average train loss: 0.0445
+2023-11-03 12:02:40 INFO     	 Epoch 256 | average valid loss: 0.0489
+2023-11-03 12:03:03 INFO     	 Epoch 257 | average train loss: 0.0445
+2023-11-03 12:03:03 INFO     	 Epoch 257 | average valid loss: 0.0497
+2023-11-03 12:03:26 INFO     	 Epoch 258 | average train loss: 0.0445
+2023-11-03 12:03:27 INFO     	 Epoch 258 | average valid loss: 0.0491
+2023-11-03 12:03:50 INFO     	 Epoch 259 | average train loss: 0.0445
+2023-11-03 12:03:50 INFO     	 Epoch 259 | average valid loss: 0.0492
+2023-11-03 12:04:26 INFO     global:	 valid MR: 164.95 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.506
+2023-11-03 12:04:26 INFO     local: 	 valid MR: 167.55 | MRR: 0.327 | H@1: 0.237 | H@3: 0.357 | H@10: 0.507
+2023-11-03 12:04:26 INFO     both:  	 valid MR: 154.15 | MRR: 0.332 | H@1: 0.241 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:04:26 INFO     global:	 test MR: 176.87 | MRR: 0.321 | H@1: 0.230 | H@3: 0.354 | H@10: 0.504
+2023-11-03 12:04:26 INFO     local: 	 test MR: 178.00 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 12:04:26 INFO     both:  	 test MR: 163.63 | MRR: 0.329 | H@1: 0.237 | H@3: 0.362 | H@10: 0.513
+2023-11-03 12:04:49 INFO     	 Epoch 260 | average train loss: 0.0445
+2023-11-03 12:04:50 INFO     	 Epoch 260 | average valid loss: 0.0485
+2023-11-03 12:05:13 INFO     	 Epoch 261 | average train loss: 0.0445
+2023-11-03 12:05:14 INFO     	 Epoch 261 | average valid loss: 0.0491
+2023-11-03 12:05:38 INFO     	 Epoch 262 | average train loss: 0.0445
+2023-11-03 12:05:38 INFO     	 Epoch 262 | average valid loss: 0.0491
+2023-11-03 12:06:01 INFO     	 Epoch 263 | average train loss: 0.0445
+2023-11-03 12:06:02 INFO     	 Epoch 263 | average valid loss: 0.0485
+2023-11-03 12:06:25 INFO     	 Epoch 264 | average train loss: 0.0445
+2023-11-03 12:06:25 INFO     	 Epoch 264 | average valid loss: 0.0484
+2023-11-03 12:07:05 INFO     global:	 valid MR: 164.84 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.506
+2023-11-03 12:07:05 INFO     local: 	 valid MR: 167.56 | MRR: 0.327 | H@1: 0.237 | H@3: 0.358 | H@10: 0.507
+2023-11-03 12:07:05 INFO     both:  	 valid MR: 154.09 | MRR: 0.332 | H@1: 0.241 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:07:05 INFO     global:	 test MR: 176.87 | MRR: 0.321 | H@1: 0.230 | H@3: 0.352 | H@10: 0.504
+2023-11-03 12:07:05 INFO     local: 	 test MR: 178.04 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.506
+2023-11-03 12:07:05 INFO     both:  	 test MR: 163.61 | MRR: 0.329 | H@1: 0.237 | H@3: 0.362 | H@10: 0.513
+2023-11-03 12:07:33 INFO     	 Epoch 265 | average train loss: 0.0444
+2023-11-03 12:07:33 INFO     	 Epoch 265 | average valid loss: 0.0492
+2023-11-03 12:08:01 INFO     	 Epoch 266 | average train loss: 0.0444
+2023-11-03 12:08:01 INFO     	 Epoch 266 | average valid loss: 0.0491
+2023-11-03 12:08:29 INFO     	 Epoch 267 | average train loss: 0.0445
+2023-11-03 12:08:29 INFO     	 Epoch 267 | average valid loss: 0.0487
+2023-11-03 12:08:57 INFO     	 Epoch 268 | average train loss: 0.0445
+2023-11-03 12:08:57 INFO     	 Epoch 268 | average valid loss: 0.0495
+2023-11-03 12:09:25 INFO     	 Epoch 269 | average train loss: 0.0445
+2023-11-03 12:09:26 INFO     	 Epoch 269 | average valid loss: 0.0495
+2023-11-03 12:10:07 INFO     global:	 valid MR: 164.75 | MRR: 0.324 | H@1: 0.234 | H@3: 0.353 | H@10: 0.505
+2023-11-03 12:10:07 INFO     local: 	 valid MR: 167.50 | MRR: 0.326 | H@1: 0.236 | H@3: 0.358 | H@10: 0.508
+2023-11-03 12:10:07 INFO     both:  	 valid MR: 154.02 | MRR: 0.331 | H@1: 0.241 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:10:07 INFO     global:	 test MR: 176.88 | MRR: 0.321 | H@1: 0.229 | H@3: 0.352 | H@10: 0.505
+2023-11-03 12:10:07 INFO     local: 	 test MR: 177.80 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.506
+2023-11-03 12:10:07 INFO     both:  	 test MR: 163.50 | MRR: 0.329 | H@1: 0.237 | H@3: 0.362 | H@10: 0.512
+2023-11-03 12:10:35 INFO     	 Epoch 270 | average train loss: 0.0444
+2023-11-03 12:10:35 INFO     	 Epoch 270 | average valid loss: 0.0485
+2023-11-03 12:11:03 INFO     	 Epoch 271 | average train loss: 0.0445
+2023-11-03 12:11:03 INFO     	 Epoch 271 | average valid loss: 0.0492
+2023-11-03 12:11:31 INFO     	 Epoch 272 | average train loss: 0.0445
+2023-11-03 12:11:32 INFO     	 Epoch 272 | average valid loss: 0.0491
+2023-11-03 12:11:59 INFO     	 Epoch 273 | average train loss: 0.0444
+2023-11-03 12:12:00 INFO     	 Epoch 273 | average valid loss: 0.0489
+2023-11-03 12:12:28 INFO     	 Epoch 274 | average train loss: 0.0444
+2023-11-03 12:12:28 INFO     	 Epoch 274 | average valid loss: 0.0492
+2023-11-03 12:13:10 INFO     global:	 valid MR: 164.83 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.505
+2023-11-03 12:13:10 INFO     local: 	 valid MR: 167.63 | MRR: 0.326 | H@1: 0.236 | H@3: 0.357 | H@10: 0.507
+2023-11-03 12:13:10 INFO     both:  	 valid MR: 154.10 | MRR: 0.331 | H@1: 0.241 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:13:10 INFO     global:	 test MR: 177.03 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:13:10 INFO     local: 	 test MR: 177.99 | MRR: 0.323 | H@1: 0.233 | H@3: 0.354 | H@10: 0.505
+2023-11-03 12:13:10 INFO     both:  	 test MR: 163.64 | MRR: 0.329 | H@1: 0.236 | H@3: 0.362 | H@10: 0.513
+2023-11-03 12:13:38 INFO     	 Epoch 275 | average train loss: 0.0444
+2023-11-03 12:13:38 INFO     	 Epoch 275 | average valid loss: 0.0490
+2023-11-03 12:14:06 INFO     	 Epoch 276 | average train loss: 0.0444
+2023-11-03 12:14:06 INFO     	 Epoch 276 | average valid loss: 0.0490
+2023-11-03 12:14:34 INFO     	 Epoch 277 | average train loss: 0.0444
+2023-11-03 12:14:34 INFO     	 Epoch 277 | average valid loss: 0.0489
+2023-11-03 12:15:02 INFO     	 Epoch 278 | average train loss: 0.0444
+2023-11-03 12:15:02 INFO     	 Epoch 278 | average valid loss: 0.0492
+2023-11-03 12:15:30 INFO     	 Epoch 279 | average train loss: 0.0444
+2023-11-03 12:15:31 INFO     	 Epoch 279 | average valid loss: 0.0494
+2023-11-03 12:16:13 INFO     global:	 valid MR: 164.80 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.505
+2023-11-03 12:16:13 INFO     local: 	 valid MR: 167.64 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.507
+2023-11-03 12:16:13 INFO     both:  	 valid MR: 154.08 | MRR: 0.332 | H@1: 0.242 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:16:13 INFO     global:	 test MR: 176.97 | MRR: 0.321 | H@1: 0.230 | H@3: 0.352 | H@10: 0.503
+2023-11-03 12:16:13 INFO     local: 	 test MR: 178.09 | MRR: 0.323 | H@1: 0.231 | H@3: 0.355 | H@10: 0.505
+2023-11-03 12:16:13 INFO     both:  	 test MR: 163.66 | MRR: 0.328 | H@1: 0.236 | H@3: 0.362 | H@10: 0.512
+2023-11-03 12:16:40 INFO     	 Epoch 280 | average train loss: 0.0444
+2023-11-03 12:16:41 INFO     	 Epoch 280 | average valid loss: 0.0493
+2023-11-03 12:17:08 INFO     	 Epoch 281 | average train loss: 0.0443
+2023-11-03 12:17:09 INFO     	 Epoch 281 | average valid loss: 0.0495
+2023-11-03 12:17:36 INFO     	 Epoch 282 | average train loss: 0.0443
+2023-11-03 12:17:37 INFO     	 Epoch 282 | average valid loss: 0.0493
+2023-11-03 12:18:04 INFO     	 Epoch 283 | average train loss: 0.0443
+2023-11-03 12:18:05 INFO     	 Epoch 283 | average valid loss: 0.0484
+2023-11-03 12:18:32 INFO     	 Epoch 284 | average train loss: 0.0443
+2023-11-03 12:18:33 INFO     	 Epoch 284 | average valid loss: 0.0486
+2023-11-03 12:19:15 INFO     global:	 valid MR: 164.82 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.506
+2023-11-03 12:19:15 INFO     local: 	 valid MR: 167.51 | MRR: 0.327 | H@1: 0.237 | H@3: 0.358 | H@10: 0.507
+2023-11-03 12:19:15 INFO     both:  	 valid MR: 154.01 | MRR: 0.332 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:19:15 INFO     global:	 test MR: 176.98 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:19:15 INFO     local: 	 test MR: 178.11 | MRR: 0.323 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 12:19:15 INFO     both:  	 test MR: 163.66 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:19:15 INFO     	 Saving model at epoch 284 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 12:19:43 INFO     	 Epoch 285 | average train loss: 0.0443
+2023-11-03 12:19:44 INFO     	 Epoch 285 | average valid loss: 0.0502
+2023-11-03 12:20:11 INFO     	 Epoch 286 | average train loss: 0.0443
+2023-11-03 12:20:12 INFO     	 Epoch 286 | average valid loss: 0.0491
+2023-11-03 12:20:39 INFO     	 Epoch 287 | average train loss: 0.0443
+2023-11-03 12:20:39 INFO     	 Epoch 287 | average valid loss: 0.0491
+2023-11-03 12:21:07 INFO     	 Epoch 288 | average train loss: 0.0442
+2023-11-03 12:21:08 INFO     	 Epoch 288 | average valid loss: 0.0493
+2023-11-03 12:21:35 INFO     	 Epoch 289 | average train loss: 0.0443
+2023-11-03 12:21:35 INFO     	 Epoch 289 | average valid loss: 0.0490
+2023-11-03 12:22:19 INFO     global:	 valid MR: 164.82 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.506
+2023-11-03 12:22:19 INFO     local: 	 valid MR: 167.61 | MRR: 0.326 | H@1: 0.236 | H@3: 0.357 | H@10: 0.507
+2023-11-03 12:22:19 INFO     both:  	 valid MR: 154.07 | MRR: 0.331 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:22:19 INFO     global:	 test MR: 177.07 | MRR: 0.321 | H@1: 0.229 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:22:19 INFO     local: 	 test MR: 178.22 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.506
+2023-11-03 12:22:19 INFO     both:  	 test MR: 163.73 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 12:22:46 INFO     	 Epoch 290 | average train loss: 0.0443
+2023-11-03 12:22:47 INFO     	 Epoch 290 | average valid loss: 0.0484
+2023-11-03 12:23:15 INFO     	 Epoch 291 | average train loss: 0.0443
+2023-11-03 12:23:15 INFO     	 Epoch 291 | average valid loss: 0.0485
+2023-11-03 12:23:43 INFO     	 Epoch 292 | average train loss: 0.0443
+2023-11-03 12:23:43 INFO     	 Epoch 292 | average valid loss: 0.0491
+2023-11-03 12:24:11 INFO     	 Epoch 293 | average train loss: 0.0443
+2023-11-03 12:24:11 INFO     	 Epoch 293 | average valid loss: 0.0496
+2023-11-03 12:24:39 INFO     	 Epoch 294 | average train loss: 0.0443
+2023-11-03 12:24:39 INFO     	 Epoch 294 | average valid loss: 0.0501
+2023-11-03 12:25:23 INFO     global:	 valid MR: 164.80 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.505
+2023-11-03 12:25:23 INFO     local: 	 valid MR: 167.58 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.507
+2023-11-03 12:25:23 INFO     both:  	 valid MR: 154.03 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:25:23 INFO     global:	 test MR: 177.03 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:25:23 INFO     local: 	 test MR: 178.23 | MRR: 0.323 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 12:25:23 INFO     both:  	 test MR: 163.72 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 12:25:23 INFO     	 Saving model at epoch 294 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 12:25:51 INFO     	 Epoch 295 | average train loss: 0.0443
+2023-11-03 12:25:52 INFO     	 Epoch 295 | average valid loss: 0.0491
+2023-11-03 12:26:19 INFO     	 Epoch 296 | average train loss: 0.0443
+2023-11-03 12:26:19 INFO     	 Epoch 296 | average valid loss: 0.0482
+2023-11-03 12:26:47 INFO     	 Epoch 297 | average train loss: 0.0443
+2023-11-03 12:26:48 INFO     	 Epoch 297 | average valid loss: 0.0487
+2023-11-03 12:27:15 INFO     	 Epoch 298 | average train loss: 0.0444
+2023-11-03 12:27:16 INFO     	 Epoch 298 | average valid loss: 0.0493
+2023-11-03 12:27:44 INFO     	 Epoch 299 | average train loss: 0.0443
+2023-11-03 12:27:44 INFO     	 Epoch 299 | average valid loss: 0.0493
+2023-11-03 12:28:29 INFO     global:	 valid MR: 164.77 | MRR: 0.324 | H@1: 0.235 | H@3: 0.353 | H@10: 0.505
+2023-11-03 12:28:29 INFO     local: 	 valid MR: 167.54 | MRR: 0.326 | H@1: 0.236 | H@3: 0.358 | H@10: 0.507
+2023-11-03 12:28:29 INFO     both:  	 valid MR: 153.98 | MRR: 0.332 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:28:29 INFO     global:	 test MR: 177.12 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:28:29 INFO     local: 	 test MR: 178.32 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.506
+2023-11-03 12:28:29 INFO     both:  	 test MR: 163.80 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 12:28:56 INFO     	 Epoch 300 | average train loss: 0.0443
+2023-11-03 12:28:57 INFO     	 Epoch 300 | average valid loss: 0.0491
+2023-11-03 12:29:24 INFO     	 Epoch 301 | average train loss: 0.0443
+2023-11-03 12:29:25 INFO     	 Epoch 301 | average valid loss: 0.0496
+2023-11-03 12:29:52 INFO     	 Epoch 302 | average train loss: 0.0443
+2023-11-03 12:29:53 INFO     	 Epoch 302 | average valid loss: 0.0495
+2023-11-03 12:30:20 INFO     	 Epoch 303 | average train loss: 0.0443
+2023-11-03 12:30:21 INFO     	 Epoch 303 | average valid loss: 0.0494
+2023-11-03 12:30:49 INFO     	 Epoch 304 | average train loss: 0.0443
+2023-11-03 12:30:49 INFO     	 Epoch 304 | average valid loss: 0.0492
+2023-11-03 12:31:34 INFO     global:	 valid MR: 164.81 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.505
+2023-11-03 12:31:34 INFO     local: 	 valid MR: 167.55 | MRR: 0.327 | H@1: 0.236 | H@3: 0.358 | H@10: 0.507
+2023-11-03 12:31:34 INFO     both:  	 valid MR: 154.03 | MRR: 0.332 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:31:34 INFO     global:	 test MR: 177.16 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:31:34 INFO     local: 	 test MR: 178.29 | MRR: 0.323 | H@1: 0.231 | H@3: 0.354 | H@10: 0.506
+2023-11-03 12:31:34 INFO     both:  	 test MR: 163.78 | MRR: 0.328 | H@1: 0.236 | H@3: 0.363 | H@10: 0.512
+2023-11-03 12:32:02 INFO     	 Epoch 305 | average train loss: 0.0443
+2023-11-03 12:32:03 INFO     	 Epoch 305 | average valid loss: 0.0499
+2023-11-03 12:32:30 INFO     	 Epoch 306 | average train loss: 0.0443
+2023-11-03 12:32:31 INFO     	 Epoch 306 | average valid loss: 0.0503
+2023-11-03 12:32:59 INFO     	 Epoch 307 | average train loss: 0.0443
+2023-11-03 12:32:59 INFO     	 Epoch 307 | average valid loss: 0.0495
+2023-11-03 12:33:26 INFO     	 Epoch 308 | average train loss: 0.0443
+2023-11-03 12:33:27 INFO     	 Epoch 308 | average valid loss: 0.0492
+2023-11-03 12:33:55 INFO     	 Epoch 309 | average train loss: 0.0443
+2023-11-03 12:33:55 INFO     	 Epoch 309 | average valid loss: 0.0487
+2023-11-03 12:34:42 INFO     global:	 valid MR: 164.84 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.505
+2023-11-03 12:34:42 INFO     local: 	 valid MR: 167.62 | MRR: 0.327 | H@1: 0.236 | H@3: 0.358 | H@10: 0.507
+2023-11-03 12:34:42 INFO     both:  	 valid MR: 154.06 | MRR: 0.332 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:34:42 INFO     global:	 test MR: 177.21 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:34:42 INFO     local: 	 test MR: 178.40 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 12:34:42 INFO     both:  	 test MR: 163.85 | MRR: 0.329 | H@1: 0.236 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:35:10 INFO     	 Epoch 310 | average train loss: 0.0443
+2023-11-03 12:35:10 INFO     	 Epoch 310 | average valid loss: 0.0493
+2023-11-03 12:35:38 INFO     	 Epoch 311 | average train loss: 0.0442
+2023-11-03 12:35:38 INFO     	 Epoch 311 | average valid loss: 0.0492
+2023-11-03 12:36:06 INFO     	 Epoch 312 | average train loss: 0.0443
+2023-11-03 12:36:06 INFO     	 Epoch 312 | average valid loss: 0.0491
+2023-11-03 12:36:35 INFO     	 Epoch 313 | average train loss: 0.0442
+2023-11-03 12:36:35 INFO     	 Epoch 313 | average valid loss: 0.0495
+2023-11-03 12:37:03 INFO     	 Epoch 314 | average train loss: 0.0443
+2023-11-03 12:37:03 INFO     	 Epoch 314 | average valid loss: 0.0488
+2023-11-03 12:37:50 INFO     global:	 valid MR: 164.82 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.506
+2023-11-03 12:37:50 INFO     local: 	 valid MR: 167.64 | MRR: 0.327 | H@1: 0.237 | H@3: 0.358 | H@10: 0.507
+2023-11-03 12:37:50 INFO     both:  	 valid MR: 154.05 | MRR: 0.332 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:37:50 INFO     global:	 test MR: 177.10 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.505
+2023-11-03 12:37:50 INFO     local: 	 test MR: 178.31 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.506
+2023-11-03 12:37:50 INFO     both:  	 test MR: 163.78 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:38:18 INFO     	 Epoch 315 | average train loss: 0.0443
+2023-11-03 12:38:18 INFO     	 Epoch 315 | average valid loss: 0.0489
+2023-11-03 12:38:46 INFO     	 Epoch 316 | average train loss: 0.0443
+2023-11-03 12:38:47 INFO     	 Epoch 316 | average valid loss: 0.0494
+2023-11-03 12:39:15 INFO     	 Epoch 317 | average train loss: 0.0442
+2023-11-03 12:39:15 INFO     	 Epoch 317 | average valid loss: 0.0491
+2023-11-03 12:39:43 INFO     	 Epoch 318 | average train loss: 0.0442
+2023-11-03 12:39:43 INFO     	 Epoch 318 | average valid loss: 0.0487
+2023-11-03 12:40:11 INFO     	 Epoch 319 | average train loss: 0.0443
+2023-11-03 12:40:11 INFO     	 Epoch 319 | average valid loss: 0.0488
+2023-11-03 12:40:59 INFO     global:	 valid MR: 164.91 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.506
+2023-11-03 12:40:59 INFO     local: 	 valid MR: 167.74 | MRR: 0.327 | H@1: 0.237 | H@3: 0.358 | H@10: 0.507
+2023-11-03 12:40:59 INFO     both:  	 valid MR: 154.11 | MRR: 0.332 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:40:59 INFO     global:	 test MR: 177.17 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:40:59 INFO     local: 	 test MR: 178.39 | MRR: 0.323 | H@1: 0.231 | H@3: 0.355 | H@10: 0.506
+2023-11-03 12:40:59 INFO     both:  	 test MR: 163.84 | MRR: 0.328 | H@1: 0.236 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:41:27 INFO     	 Epoch 320 | average train loss: 0.0443
+2023-11-03 12:41:27 INFO     	 Epoch 320 | average valid loss: 0.0499
+2023-11-03 12:41:55 INFO     	 Epoch 321 | average train loss: 0.0443
+2023-11-03 12:41:55 INFO     	 Epoch 321 | average valid loss: 0.0496
+2023-11-03 12:42:23 INFO     	 Epoch 322 | average train loss: 0.0443
+2023-11-03 12:42:24 INFO     	 Epoch 322 | average valid loss: 0.0488
+2023-11-03 12:42:52 INFO     	 Epoch 323 | average train loss: 0.0443
+2023-11-03 12:42:52 INFO     	 Epoch 323 | average valid loss: 0.0491
+2023-11-03 12:43:20 INFO     	 Epoch 324 | average train loss: 0.0442
+2023-11-03 12:43:20 INFO     	 Epoch 324 | average valid loss: 0.0489
+2023-11-03 12:44:08 INFO     global:	 valid MR: 164.93 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.506
+2023-11-03 12:44:08 INFO     local: 	 valid MR: 167.71 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.507
+2023-11-03 12:44:08 INFO     both:  	 valid MR: 154.10 | MRR: 0.332 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:44:08 INFO     global:	 test MR: 177.24 | MRR: 0.321 | H@1: 0.231 | H@3: 0.354 | H@10: 0.504
+2023-11-03 12:44:08 INFO     local: 	 test MR: 178.35 | MRR: 0.323 | H@1: 0.231 | H@3: 0.356 | H@10: 0.506
+2023-11-03 12:44:08 INFO     both:  	 test MR: 163.84 | MRR: 0.329 | H@1: 0.237 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:44:54 INFO     	 Epoch 325 | average train loss: 0.0443
+2023-11-03 12:44:54 INFO     	 Epoch 325 | average valid loss: 0.0493
+2023-11-03 12:45:22 INFO     	 Epoch 326 | average train loss: 0.0442
+2023-11-03 12:45:22 INFO     	 Epoch 326 | average valid loss: 0.0497
+2023-11-03 12:45:50 INFO     	 Epoch 327 | average train loss: 0.0443
+2023-11-03 12:45:50 INFO     	 Epoch 327 | average valid loss: 0.0489
+2023-11-03 12:46:18 INFO     	 Epoch 328 | average train loss: 0.0442
+2023-11-03 12:46:18 INFO     	 Epoch 328 | average valid loss: 0.0497
+2023-11-03 12:46:46 INFO     	 Epoch 329 | average train loss: 0.0443
+2023-11-03 12:46:47 INFO     	 Epoch 329 | average valid loss: 0.0493
+2023-11-03 12:47:37 INFO     global:	 valid MR: 164.96 | MRR: 0.325 | H@1: 0.235 | H@3: 0.353 | H@10: 0.506
+2023-11-03 12:47:37 INFO     local: 	 valid MR: 167.84 | MRR: 0.327 | H@1: 0.237 | H@3: 0.358 | H@10: 0.508
+2023-11-03 12:47:37 INFO     both:  	 valid MR: 154.20 | MRR: 0.332 | H@1: 0.242 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:47:37 INFO     global:	 test MR: 177.26 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.505
+2023-11-03 12:47:37 INFO     local: 	 test MR: 178.39 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 12:47:37 INFO     both:  	 test MR: 163.85 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:48:04 INFO     	 Epoch 330 | average train loss: 0.0443
+2023-11-03 12:48:05 INFO     	 Epoch 330 | average valid loss: 0.0492
+2023-11-03 12:48:33 INFO     	 Epoch 331 | average train loss: 0.0442
+2023-11-03 12:48:33 INFO     	 Epoch 331 | average valid loss: 0.0487
+2023-11-03 12:49:01 INFO     	 Epoch 332 | average train loss: 0.0442
+2023-11-03 12:49:01 INFO     	 Epoch 332 | average valid loss: 0.0490
+2023-11-03 12:49:29 INFO     	 Epoch 333 | average train loss: 0.0443
+2023-11-03 12:49:29 INFO     	 Epoch 333 | average valid loss: 0.0493
+2023-11-03 12:49:57 INFO     	 Epoch 334 | average train loss: 0.0443
+2023-11-03 12:49:58 INFO     	 Epoch 334 | average valid loss: 0.0490
+2023-11-03 12:50:47 INFO     global:	 valid MR: 164.98 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.505
+2023-11-03 12:50:47 INFO     local: 	 valid MR: 167.94 | MRR: 0.326 | H@1: 0.235 | H@3: 0.358 | H@10: 0.507
+2023-11-03 12:50:47 INFO     both:  	 valid MR: 154.24 | MRR: 0.331 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:50:47 INFO     global:	 test MR: 177.29 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:50:47 INFO     local: 	 test MR: 178.45 | MRR: 0.323 | H@1: 0.231 | H@3: 0.355 | H@10: 0.505
+2023-11-03 12:50:47 INFO     both:  	 test MR: 163.89 | MRR: 0.328 | H@1: 0.236 | H@3: 0.363 | H@10: 0.513
+2023-11-03 12:51:15 INFO     	 Epoch 335 | average train loss: 0.0442
+2023-11-03 12:51:15 INFO     	 Epoch 335 | average valid loss: 0.0491
+2023-11-03 12:51:43 INFO     	 Epoch 336 | average train loss: 0.0442
+2023-11-03 12:51:43 INFO     	 Epoch 336 | average valid loss: 0.0492
+2023-11-03 12:52:11 INFO     	 Epoch 337 | average train loss: 0.0442
+2023-11-03 12:52:11 INFO     	 Epoch 337 | average valid loss: 0.0500
+2023-11-03 12:52:39 INFO     	 Epoch 338 | average train loss: 0.0443
+2023-11-03 12:52:40 INFO     	 Epoch 338 | average valid loss: 0.0490
+2023-11-03 12:53:08 INFO     	 Epoch 339 | average train loss: 0.0442
+2023-11-03 12:53:08 INFO     	 Epoch 339 | average valid loss: 0.0496
+2023-11-03 12:53:58 INFO     global:	 valid MR: 164.95 | MRR: 0.325 | H@1: 0.236 | H@3: 0.354 | H@10: 0.506
+2023-11-03 12:53:58 INFO     local: 	 valid MR: 167.87 | MRR: 0.327 | H@1: 0.236 | H@3: 0.358 | H@10: 0.508
+2023-11-03 12:53:58 INFO     both:  	 valid MR: 154.22 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:53:58 INFO     global:	 test MR: 177.26 | MRR: 0.321 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:53:58 INFO     local: 	 test MR: 178.35 | MRR: 0.323 | H@1: 0.231 | H@3: 0.355 | H@10: 0.505
+2023-11-03 12:53:58 INFO     both:  	 test MR: 163.83 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 12:54:26 INFO     	 Epoch 340 | average train loss: 0.0443
+2023-11-03 12:54:26 INFO     	 Epoch 340 | average valid loss: 0.0492
+2023-11-03 12:54:54 INFO     	 Epoch 341 | average train loss: 0.0442
+2023-11-03 12:54:54 INFO     	 Epoch 341 | average valid loss: 0.0494
+2023-11-03 12:55:22 INFO     	 Epoch 342 | average train loss: 0.0443
+2023-11-03 12:55:23 INFO     	 Epoch 342 | average valid loss: 0.0488
+2023-11-03 12:55:51 INFO     	 Epoch 343 | average train loss: 0.0442
+2023-11-03 12:55:51 INFO     	 Epoch 343 | average valid loss: 0.0491
+2023-11-03 12:56:19 INFO     	 Epoch 344 | average train loss: 0.0442
+2023-11-03 12:56:19 INFO     	 Epoch 344 | average valid loss: 0.0491
+2023-11-03 12:57:11 INFO     global:	 valid MR: 164.99 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.506
+2023-11-03 12:57:11 INFO     local: 	 valid MR: 167.97 | MRR: 0.326 | H@1: 0.236 | H@3: 0.358 | H@10: 0.507
+2023-11-03 12:57:11 INFO     both:  	 valid MR: 154.30 | MRR: 0.332 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 12:57:11 INFO     global:	 test MR: 177.30 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 12:57:11 INFO     local: 	 test MR: 178.49 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.506
+2023-11-03 12:57:11 INFO     both:  	 test MR: 163.89 | MRR: 0.329 | H@1: 0.236 | H@3: 0.362 | H@10: 0.512
+2023-11-03 12:57:38 INFO     	 Epoch 345 | average train loss: 0.0442
+2023-11-03 12:57:38 INFO     	 Epoch 345 | average valid loss: 0.0487
+2023-11-03 12:58:06 INFO     	 Epoch 346 | average train loss: 0.0442
+2023-11-03 12:58:06 INFO     	 Epoch 346 | average valid loss: 0.0485
+2023-11-03 12:58:34 INFO     	 Epoch 347 | average train loss: 0.0442
+2023-11-03 12:58:34 INFO     	 Epoch 347 | average valid loss: 0.0498
+2023-11-03 12:59:02 INFO     	 Epoch 348 | average train loss: 0.0442
+2023-11-03 12:59:02 INFO     	 Epoch 348 | average valid loss: 0.0489
+2023-11-03 12:59:30 INFO     	 Epoch 349 | average train loss: 0.0442
+2023-11-03 12:59:31 INFO     	 Epoch 349 | average valid loss: 0.0491
+2023-11-03 13:00:24 INFO     global:	 valid MR: 165.01 | MRR: 0.324 | H@1: 0.234 | H@3: 0.355 | H@10: 0.506
+2023-11-03 13:00:24 INFO     local: 	 valid MR: 167.98 | MRR: 0.326 | H@1: 0.236 | H@3: 0.359 | H@10: 0.507
+2023-11-03 13:00:24 INFO     both:  	 valid MR: 154.27 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 13:00:24 INFO     global:	 test MR: 177.35 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.503
+2023-11-03 13:00:24 INFO     local: 	 test MR: 178.48 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 13:00:24 INFO     both:  	 test MR: 163.92 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:00:52 INFO     	 Epoch 350 | average train loss: 0.0442
+2023-11-03 13:00:52 INFO     	 Epoch 350 | average valid loss: 0.0489
+2023-11-03 13:01:19 INFO     	 Epoch 351 | average train loss: 0.0442
+2023-11-03 13:01:20 INFO     	 Epoch 351 | average valid loss: 0.0493
+2023-11-03 13:01:48 INFO     	 Epoch 352 | average train loss: 0.0442
+2023-11-03 13:01:48 INFO     	 Epoch 352 | average valid loss: 0.0502
+2023-11-03 13:02:15 INFO     	 Epoch 353 | average train loss: 0.0442
+2023-11-03 13:02:16 INFO     	 Epoch 353 | average valid loss: 0.0495
+2023-11-03 13:02:43 INFO     	 Epoch 354 | average train loss: 0.0442
+2023-11-03 13:02:44 INFO     	 Epoch 354 | average valid loss: 0.0489
+2023-11-03 13:03:36 INFO     global:	 valid MR: 165.00 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.506
+2023-11-03 13:03:36 INFO     local: 	 valid MR: 168.00 | MRR: 0.326 | H@1: 0.236 | H@3: 0.358 | H@10: 0.507
+2023-11-03 13:03:36 INFO     both:  	 valid MR: 154.29 | MRR: 0.332 | H@1: 0.241 | H@3: 0.364 | H@10: 0.513
+2023-11-03 13:03:36 INFO     global:	 test MR: 177.34 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:03:36 INFO     local: 	 test MR: 178.50 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 13:03:36 INFO     both:  	 test MR: 163.91 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:04:04 INFO     	 Epoch 355 | average train loss: 0.0442
+2023-11-03 13:04:05 INFO     	 Epoch 355 | average valid loss: 0.0495
+2023-11-03 13:04:32 INFO     	 Epoch 356 | average train loss: 0.0442
+2023-11-03 13:04:33 INFO     	 Epoch 356 | average valid loss: 0.0495
+2023-11-03 13:05:00 INFO     	 Epoch 357 | average train loss: 0.0442
+2023-11-03 13:05:01 INFO     	 Epoch 357 | average valid loss: 0.0491
+2023-11-03 13:05:28 INFO     	 Epoch 358 | average train loss: 0.0442
+2023-11-03 13:05:28 INFO     	 Epoch 358 | average valid loss: 0.0491
+2023-11-03 13:05:56 INFO     	 Epoch 359 | average train loss: 0.0442
+2023-11-03 13:05:57 INFO     	 Epoch 359 | average valid loss: 0.0485
+2023-11-03 13:06:50 INFO     global:	 valid MR: 164.98 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.506
+2023-11-03 13:06:50 INFO     local: 	 valid MR: 167.95 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.507
+2023-11-03 13:06:50 INFO     both:  	 valid MR: 154.26 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.512
+2023-11-03 13:06:50 INFO     global:	 test MR: 177.34 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:06:50 INFO     local: 	 test MR: 178.50 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.506
+2023-11-03 13:06:50 INFO     both:  	 test MR: 163.90 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:07:18 INFO     	 Epoch 360 | average train loss: 0.0441
+2023-11-03 13:07:18 INFO     	 Epoch 360 | average valid loss: 0.0490
+2023-11-03 13:07:46 INFO     	 Epoch 361 | average train loss: 0.0442
+2023-11-03 13:07:46 INFO     	 Epoch 361 | average valid loss: 0.0497
+2023-11-03 13:08:14 INFO     	 Epoch 362 | average train loss: 0.0442
+2023-11-03 13:08:14 INFO     	 Epoch 362 | average valid loss: 0.0493
+2023-11-03 13:08:42 INFO     	 Epoch 363 | average train loss: 0.0442
+2023-11-03 13:08:42 INFO     	 Epoch 363 | average valid loss: 0.0487
+2023-11-03 13:09:10 INFO     	 Epoch 364 | average train loss: 0.0442
+2023-11-03 13:09:11 INFO     	 Epoch 364 | average valid loss: 0.0499
+2023-11-03 13:10:05 INFO     global:	 valid MR: 164.97 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.506
+2023-11-03 13:10:05 INFO     local: 	 valid MR: 167.99 | MRR: 0.326 | H@1: 0.236 | H@3: 0.359 | H@10: 0.507
+2023-11-03 13:10:05 INFO     both:  	 valid MR: 154.28 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 13:10:05 INFO     global:	 test MR: 177.35 | MRR: 0.321 | H@1: 0.231 | H@3: 0.354 | H@10: 0.504
+2023-11-03 13:10:05 INFO     local: 	 test MR: 178.55 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.506
+2023-11-03 13:10:05 INFO     both:  	 test MR: 163.91 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:10:32 INFO     	 Epoch 365 | average train loss: 0.0442
+2023-11-03 13:10:33 INFO     	 Epoch 365 | average valid loss: 0.0492
+2023-11-03 13:11:00 INFO     	 Epoch 366 | average train loss: 0.0442
+2023-11-03 13:11:01 INFO     	 Epoch 366 | average valid loss: 0.0495
+2023-11-03 13:11:28 INFO     	 Epoch 367 | average train loss: 0.0442
+2023-11-03 13:11:29 INFO     	 Epoch 367 | average valid loss: 0.0493
+2023-11-03 13:11:57 INFO     	 Epoch 368 | average train loss: 0.0442
+2023-11-03 13:11:57 INFO     	 Epoch 368 | average valid loss: 0.0485
+2023-11-03 13:12:25 INFO     	 Epoch 369 | average train loss: 0.0442
+2023-11-03 13:12:25 INFO     	 Epoch 369 | average valid loss: 0.0495
+2023-11-03 13:13:21 INFO     global:	 valid MR: 165.02 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.506
+2023-11-03 13:13:21 INFO     local: 	 valid MR: 167.99 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 13:13:21 INFO     both:  	 valid MR: 154.29 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 13:13:21 INFO     global:	 test MR: 177.40 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:13:21 INFO     local: 	 test MR: 178.56 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 13:13:21 INFO     both:  	 test MR: 163.95 | MRR: 0.329 | H@1: 0.237 | H@3: 0.362 | H@10: 0.512
+2023-11-03 13:13:48 INFO     	 Epoch 370 | average train loss: 0.0442
+2023-11-03 13:13:49 INFO     	 Epoch 370 | average valid loss: 0.0488
+2023-11-03 13:14:17 INFO     	 Epoch 371 | average train loss: 0.0442
+2023-11-03 13:14:17 INFO     	 Epoch 371 | average valid loss: 0.0496
+2023-11-03 13:14:45 INFO     	 Epoch 372 | average train loss: 0.0442
+2023-11-03 13:14:45 INFO     	 Epoch 372 | average valid loss: 0.0486
+2023-11-03 13:15:13 INFO     	 Epoch 373 | average train loss: 0.0442
+2023-11-03 13:15:13 INFO     	 Epoch 373 | average valid loss: 0.0497
+2023-11-03 13:15:41 INFO     	 Epoch 374 | average train loss: 0.0442
+2023-11-03 13:15:41 INFO     	 Epoch 374 | average valid loss: 0.0500
+2023-11-03 13:16:36 INFO     global:	 valid MR: 165.04 | MRR: 0.324 | H@1: 0.234 | H@3: 0.354 | H@10: 0.506
+2023-11-03 13:16:36 INFO     local: 	 valid MR: 167.99 | MRR: 0.326 | H@1: 0.236 | H@3: 0.358 | H@10: 0.508
+2023-11-03 13:16:36 INFO     both:  	 valid MR: 154.29 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 13:16:36 INFO     global:	 test MR: 177.41 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:16:36 INFO     local: 	 test MR: 178.55 | MRR: 0.323 | H@1: 0.231 | H@3: 0.355 | H@10: 0.505
+2023-11-03 13:16:36 INFO     both:  	 test MR: 163.94 | MRR: 0.329 | H@1: 0.237 | H@3: 0.362 | H@10: 0.512
+2023-11-03 13:17:04 INFO     	 Epoch 375 | average train loss: 0.0442
+2023-11-03 13:17:04 INFO     	 Epoch 375 | average valid loss: 0.0487
+2023-11-03 13:17:32 INFO     	 Epoch 376 | average train loss: 0.0442
+2023-11-03 13:17:32 INFO     	 Epoch 376 | average valid loss: 0.0495
+2023-11-03 13:18:00 INFO     	 Epoch 377 | average train loss: 0.0442
+2023-11-03 13:18:01 INFO     	 Epoch 377 | average valid loss: 0.0494
+2023-11-03 13:18:29 INFO     	 Epoch 378 | average train loss: 0.0442
+2023-11-03 13:18:29 INFO     	 Epoch 378 | average valid loss: 0.0500
+2023-11-03 13:18:57 INFO     	 Epoch 379 | average train loss: 0.0442
+2023-11-03 13:18:57 INFO     	 Epoch 379 | average valid loss: 0.0497
+2023-11-03 13:19:54 INFO     global:	 valid MR: 165.03 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.505
+2023-11-03 13:19:54 INFO     local: 	 valid MR: 167.99 | MRR: 0.326 | H@1: 0.236 | H@3: 0.358 | H@10: 0.508
+2023-11-03 13:19:54 INFO     both:  	 valid MR: 154.27 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 13:19:54 INFO     global:	 test MR: 177.42 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:19:54 INFO     local: 	 test MR: 178.54 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 13:19:54 INFO     both:  	 test MR: 163.94 | MRR: 0.329 | H@1: 0.237 | H@3: 0.362 | H@10: 0.512
+2023-11-03 13:20:21 INFO     	 Epoch 380 | average train loss: 0.0442
+2023-11-03 13:20:22 INFO     	 Epoch 380 | average valid loss: 0.0490
+2023-11-03 13:20:49 INFO     	 Epoch 381 | average train loss: 0.0442
+2023-11-03 13:20:49 INFO     	 Epoch 381 | average valid loss: 0.0490
+2023-11-03 13:21:17 INFO     	 Epoch 382 | average train loss: 0.0442
+2023-11-03 13:21:18 INFO     	 Epoch 382 | average valid loss: 0.0488
+2023-11-03 13:21:45 INFO     	 Epoch 383 | average train loss: 0.0442
+2023-11-03 13:21:46 INFO     	 Epoch 383 | average valid loss: 0.0488
+2023-11-03 13:22:14 INFO     	 Epoch 384 | average train loss: 0.0442
+2023-11-03 13:22:14 INFO     	 Epoch 384 | average valid loss: 0.0501
+2023-11-03 13:23:11 INFO     global:	 valid MR: 165.08 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.505
+2023-11-03 13:23:11 INFO     local: 	 valid MR: 168.03 | MRR: 0.326 | H@1: 0.236 | H@3: 0.358 | H@10: 0.507
+2023-11-03 13:23:11 INFO     both:  	 valid MR: 154.30 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 13:23:11 INFO     global:	 test MR: 177.43 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:23:11 INFO     local: 	 test MR: 178.57 | MRR: 0.323 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 13:23:11 INFO     both:  	 test MR: 163.93 | MRR: 0.329 | H@1: 0.237 | H@3: 0.362 | H@10: 0.512
+2023-11-03 13:23:39 INFO     	 Epoch 385 | average train loss: 0.0442
+2023-11-03 13:23:39 INFO     	 Epoch 385 | average valid loss: 0.0485
+2023-11-03 13:24:07 INFO     	 Epoch 386 | average train loss: 0.0442
+2023-11-03 13:24:07 INFO     	 Epoch 386 | average valid loss: 0.0490
+2023-11-03 13:24:35 INFO     	 Epoch 387 | average train loss: 0.0441
+2023-11-03 13:24:35 INFO     	 Epoch 387 | average valid loss: 0.0493
+2023-11-03 13:25:03 INFO     	 Epoch 388 | average train loss: 0.0441
+2023-11-03 13:25:04 INFO     	 Epoch 388 | average valid loss: 0.0487
+2023-11-03 13:25:31 INFO     	 Epoch 389 | average train loss: 0.0441
+2023-11-03 13:25:32 INFO     	 Epoch 389 | average valid loss: 0.0497
+2023-11-03 13:26:29 INFO     global:	 valid MR: 165.01 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.505
+2023-11-03 13:26:29 INFO     local: 	 valid MR: 168.02 | MRR: 0.327 | H@1: 0.237 | H@3: 0.358 | H@10: 0.508
+2023-11-03 13:26:29 INFO     both:  	 valid MR: 154.27 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 13:26:29 INFO     global:	 test MR: 177.44 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:26:29 INFO     local: 	 test MR: 178.61 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 13:26:29 INFO     both:  	 test MR: 163.96 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:26:57 INFO     	 Epoch 390 | average train loss: 0.0442
+2023-11-03 13:26:57 INFO     	 Epoch 390 | average valid loss: 0.0489
+2023-11-03 13:27:25 INFO     	 Epoch 391 | average train loss: 0.0441
+2023-11-03 13:27:26 INFO     	 Epoch 391 | average valid loss: 0.0488
+2023-11-03 13:27:53 INFO     	 Epoch 392 | average train loss: 0.0441
+2023-11-03 13:27:53 INFO     	 Epoch 392 | average valid loss: 0.0492
+2023-11-03 13:28:20 INFO     	 Epoch 393 | average train loss: 0.0442
+2023-11-03 13:28:21 INFO     	 Epoch 393 | average valid loss: 0.0492
+2023-11-03 13:28:48 INFO     	 Epoch 394 | average train loss: 0.0442
+2023-11-03 13:28:49 INFO     	 Epoch 394 | average valid loss: 0.0496
+2023-11-03 13:29:47 INFO     global:	 valid MR: 165.00 | MRR: 0.325 | H@1: 0.235 | H@3: 0.354 | H@10: 0.505
+2023-11-03 13:29:47 INFO     local: 	 valid MR: 168.08 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 13:29:47 INFO     both:  	 valid MR: 154.30 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.514
+2023-11-03 13:29:47 INFO     global:	 test MR: 177.43 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:29:47 INFO     local: 	 test MR: 178.61 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 13:29:47 INFO     both:  	 test MR: 163.96 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:29:47 INFO     	 Saving model at epoch 394 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 13:30:15 INFO     	 Epoch 395 | average train loss: 0.0441
+2023-11-03 13:30:15 INFO     	 Epoch 395 | average valid loss: 0.0505
+2023-11-03 13:30:43 INFO     	 Epoch 396 | average train loss: 0.0441
+2023-11-03 13:30:43 INFO     	 Epoch 396 | average valid loss: 0.0494
+2023-11-03 13:31:11 INFO     	 Epoch 397 | average train loss: 0.0441
+2023-11-03 13:31:11 INFO     	 Epoch 397 | average valid loss: 0.0488
+2023-11-03 13:31:39 INFO     	 Epoch 398 | average train loss: 0.0441
+2023-11-03 13:31:39 INFO     	 Epoch 398 | average valid loss: 0.0502
+2023-11-03 13:32:07 INFO     	 Epoch 399 | average train loss: 0.0441
+2023-11-03 13:32:08 INFO     	 Epoch 399 | average valid loss: 0.0486
+2023-11-03 13:33:08 INFO     global:	 valid MR: 165.03 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.505
+2023-11-03 13:33:08 INFO     local: 	 valid MR: 168.03 | MRR: 0.327 | H@1: 0.237 | H@3: 0.359 | H@10: 0.508
+2023-11-03 13:33:08 INFO     both:  	 valid MR: 154.29 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.514
+2023-11-03 13:33:08 INFO     global:	 test MR: 177.46 | MRR: 0.322 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:33:08 INFO     local: 	 test MR: 178.66 | MRR: 0.324 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 13:33:08 INFO     both:  	 test MR: 164.00 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:33:35 INFO     	 Epoch 400 | average train loss: 0.0441
+2023-11-03 13:33:36 INFO     	 Epoch 400 | average valid loss: 0.0492
+2023-11-03 13:34:03 INFO     	 Epoch 401 | average train loss: 0.0441
+2023-11-03 13:34:04 INFO     	 Epoch 401 | average valid loss: 0.0485
+2023-11-03 13:34:32 INFO     	 Epoch 402 | average train loss: 0.0441
+2023-11-03 13:34:32 INFO     	 Epoch 402 | average valid loss: 0.0497
+2023-11-03 13:35:00 INFO     	 Epoch 403 | average train loss: 0.0441
+2023-11-03 13:35:00 INFO     	 Epoch 403 | average valid loss: 0.0497
+2023-11-03 13:35:28 INFO     	 Epoch 404 | average train loss: 0.0441
+2023-11-03 13:35:28 INFO     	 Epoch 404 | average valid loss: 0.0490
+2023-11-03 13:36:28 INFO     global:	 valid MR: 165.04 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 13:36:28 INFO     local: 	 valid MR: 168.08 | MRR: 0.327 | H@1: 0.237 | H@3: 0.359 | H@10: 0.508
+2023-11-03 13:36:28 INFO     both:  	 valid MR: 154.31 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 13:36:28 INFO     global:	 test MR: 177.49 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:36:28 INFO     local: 	 test MR: 178.64 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.506
+2023-11-03 13:36:28 INFO     both:  	 test MR: 164.01 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:36:55 INFO     	 Epoch 405 | average train loss: 0.0442
+2023-11-03 13:36:56 INFO     	 Epoch 405 | average valid loss: 0.0493
+2023-11-03 13:37:23 INFO     	 Epoch 406 | average train loss: 0.0441
+2023-11-03 13:37:24 INFO     	 Epoch 406 | average valid loss: 0.0497
+2023-11-03 13:37:51 INFO     	 Epoch 407 | average train loss: 0.0441
+2023-11-03 13:37:51 INFO     	 Epoch 407 | average valid loss: 0.0496
+2023-11-03 13:38:19 INFO     	 Epoch 408 | average train loss: 0.0442
+2023-11-03 13:38:19 INFO     	 Epoch 408 | average valid loss: 0.0493
+2023-11-03 13:38:48 INFO     	 Epoch 409 | average train loss: 0.0442
+2023-11-03 13:38:48 INFO     	 Epoch 409 | average valid loss: 0.0494
+2023-11-03 13:39:49 INFO     global:	 valid MR: 165.04 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 13:39:49 INFO     local: 	 valid MR: 168.07 | MRR: 0.327 | H@1: 0.237 | H@3: 0.359 | H@10: 0.508
+2023-11-03 13:39:49 INFO     both:  	 valid MR: 154.31 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 13:39:49 INFO     global:	 test MR: 177.49 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:39:49 INFO     local: 	 test MR: 178.66 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 13:39:49 INFO     both:  	 test MR: 164.03 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:40:17 INFO     	 Epoch 410 | average train loss: 0.0441
+2023-11-03 13:40:17 INFO     	 Epoch 410 | average valid loss: 0.0492
+2023-11-03 13:40:45 INFO     	 Epoch 411 | average train loss: 0.0441
+2023-11-03 13:40:45 INFO     	 Epoch 411 | average valid loss: 0.0494
+2023-11-03 13:41:13 INFO     	 Epoch 412 | average train loss: 0.0441
+2023-11-03 13:41:14 INFO     	 Epoch 412 | average valid loss: 0.0494
+2023-11-03 13:41:41 INFO     	 Epoch 413 | average train loss: 0.0441
+2023-11-03 13:41:42 INFO     	 Epoch 413 | average valid loss: 0.0492
+2023-11-03 13:42:09 INFO     	 Epoch 414 | average train loss: 0.0441
+2023-11-03 13:42:10 INFO     	 Epoch 414 | average valid loss: 0.0481
+2023-11-03 13:43:11 INFO     global:	 valid MR: 165.06 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 13:43:11 INFO     local: 	 valid MR: 168.09 | MRR: 0.327 | H@1: 0.237 | H@3: 0.359 | H@10: 0.508
+2023-11-03 13:43:11 INFO     both:  	 valid MR: 154.32 | MRR: 0.333 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 13:43:11 INFO     global:	 test MR: 177.50 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:43:11 INFO     local: 	 test MR: 178.69 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 13:43:11 INFO     both:  	 test MR: 164.04 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:43:11 INFO     	 Saving model at epoch 414 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 13:43:38 INFO     	 Epoch 415 | average train loss: 0.0441
+2023-11-03 13:43:39 INFO     	 Epoch 415 | average valid loss: 0.0490
+2023-11-03 13:44:06 INFO     	 Epoch 416 | average train loss: 0.0441
+2023-11-03 13:44:07 INFO     	 Epoch 416 | average valid loss: 0.0495
+2023-11-03 13:44:34 INFO     	 Epoch 417 | average train loss: 0.0441
+2023-11-03 13:44:35 INFO     	 Epoch 417 | average valid loss: 0.0486
+2023-11-03 13:45:02 INFO     	 Epoch 418 | average train loss: 0.0441
+2023-11-03 13:45:03 INFO     	 Epoch 418 | average valid loss: 0.0487
+2023-11-03 13:45:30 INFO     	 Epoch 419 | average train loss: 0.0441
+2023-11-03 13:45:31 INFO     	 Epoch 419 | average valid loss: 0.0489
+2023-11-03 13:46:34 INFO     global:	 valid MR: 165.06 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 13:46:34 INFO     local: 	 valid MR: 168.09 | MRR: 0.327 | H@1: 0.236 | H@3: 0.358 | H@10: 0.508
+2023-11-03 13:46:34 INFO     both:  	 valid MR: 154.33 | MRR: 0.332 | H@1: 0.242 | H@3: 0.365 | H@10: 0.513
+2023-11-03 13:46:34 INFO     global:	 test MR: 177.51 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:46:34 INFO     local: 	 test MR: 178.71 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 13:46:34 INFO     both:  	 test MR: 164.05 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:47:02 INFO     	 Epoch 420 | average train loss: 0.0441
+2023-11-03 13:47:02 INFO     	 Epoch 420 | average valid loss: 0.0485
+2023-11-03 13:47:30 INFO     	 Epoch 421 | average train loss: 0.0441
+2023-11-03 13:47:30 INFO     	 Epoch 421 | average valid loss: 0.0498
+2023-11-03 13:47:58 INFO     	 Epoch 422 | average train loss: 0.0441
+2023-11-03 13:47:58 INFO     	 Epoch 422 | average valid loss: 0.0496
+2023-11-03 13:48:26 INFO     	 Epoch 423 | average train loss: 0.0441
+2023-11-03 13:48:27 INFO     	 Epoch 423 | average valid loss: 0.0492
+2023-11-03 13:48:54 INFO     	 Epoch 424 | average train loss: 0.0441
+2023-11-03 13:48:55 INFO     	 Epoch 424 | average valid loss: 0.0493
+2023-11-03 13:49:57 INFO     global:	 valid MR: 165.10 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 13:49:57 INFO     local: 	 valid MR: 168.13 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 13:49:57 INFO     both:  	 valid MR: 154.36 | MRR: 0.332 | H@1: 0.242 | H@3: 0.365 | H@10: 0.513
+2023-11-03 13:49:57 INFO     global:	 test MR: 177.51 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.505
+2023-11-03 13:49:57 INFO     local: 	 test MR: 178.73 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 13:49:57 INFO     both:  	 test MR: 164.07 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:50:24 INFO     	 Epoch 425 | average train loss: 0.0441
+2023-11-03 13:50:25 INFO     	 Epoch 425 | average valid loss: 0.0489
+2023-11-03 13:50:53 INFO     	 Epoch 426 | average train loss: 0.0441
+2023-11-03 13:50:53 INFO     	 Epoch 426 | average valid loss: 0.0488
+2023-11-03 13:51:21 INFO     	 Epoch 427 | average train loss: 0.0442
+2023-11-03 13:51:21 INFO     	 Epoch 427 | average valid loss: 0.0492
+2023-11-03 13:51:49 INFO     	 Epoch 428 | average train loss: 0.0441
+2023-11-03 13:51:50 INFO     	 Epoch 428 | average valid loss: 0.0499
+2023-11-03 13:52:18 INFO     	 Epoch 429 | average train loss: 0.0441
+2023-11-03 13:52:18 INFO     	 Epoch 429 | average valid loss: 0.0491
+2023-11-03 13:53:22 INFO     global:	 valid MR: 165.09 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.506
+2023-11-03 13:53:22 INFO     local: 	 valid MR: 168.15 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 13:53:22 INFO     both:  	 valid MR: 154.36 | MRR: 0.333 | H@1: 0.242 | H@3: 0.365 | H@10: 0.513
+2023-11-03 13:53:22 INFO     global:	 test MR: 177.53 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.505
+2023-11-03 13:53:22 INFO     local: 	 test MR: 178.73 | MRR: 0.323 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 13:53:22 INFO     both:  	 test MR: 164.08 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:53:22 INFO     	 Saving model at epoch 429 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 13:53:50 INFO     	 Epoch 430 | average train loss: 0.0441
+2023-11-03 13:53:50 INFO     	 Epoch 430 | average valid loss: 0.0503
+2023-11-03 13:54:18 INFO     	 Epoch 431 | average train loss: 0.0441
+2023-11-03 13:54:18 INFO     	 Epoch 431 | average valid loss: 0.0486
+2023-11-03 13:54:46 INFO     	 Epoch 432 | average train loss: 0.0442
+2023-11-03 13:54:46 INFO     	 Epoch 432 | average valid loss: 0.0488
+2023-11-03 13:55:13 INFO     	 Epoch 433 | average train loss: 0.0442
+2023-11-03 13:55:14 INFO     	 Epoch 433 | average valid loss: 0.0488
+2023-11-03 13:55:42 INFO     	 Epoch 434 | average train loss: 0.0441
+2023-11-03 13:55:42 INFO     	 Epoch 434 | average valid loss: 0.0488
+2023-11-03 13:56:47 INFO     global:	 valid MR: 165.10 | MRR: 0.325 | H@1: 0.235 | H@3: 0.355 | H@10: 0.506
+2023-11-03 13:56:47 INFO     local: 	 valid MR: 168.12 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 13:56:47 INFO     both:  	 valid MR: 154.35 | MRR: 0.333 | H@1: 0.242 | H@3: 0.365 | H@10: 0.513
+2023-11-03 13:56:47 INFO     global:	 test MR: 177.52 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 13:56:47 INFO     local: 	 test MR: 178.74 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 13:56:47 INFO     both:  	 test MR: 164.07 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 13:57:14 INFO     	 Epoch 435 | average train loss: 0.0441
+2023-11-03 13:57:15 INFO     	 Epoch 435 | average valid loss: 0.0495
+2023-11-03 13:57:42 INFO     	 Epoch 436 | average train loss: 0.0441
+2023-11-03 13:57:43 INFO     	 Epoch 436 | average valid loss: 0.0497
+2023-11-03 13:58:11 INFO     	 Epoch 437 | average train loss: 0.0441
+2023-11-03 13:58:11 INFO     	 Epoch 437 | average valid loss: 0.0493
+2023-11-03 13:58:39 INFO     	 Epoch 438 | average train loss: 0.0441
+2023-11-03 13:58:40 INFO     	 Epoch 438 | average valid loss: 0.0495
+2023-11-03 13:59:08 INFO     	 Epoch 439 | average train loss: 0.0442
+2023-11-03 13:59:08 INFO     	 Epoch 439 | average valid loss: 0.0498
+2023-11-03 14:00:14 INFO     global:	 valid MR: 165.10 | MRR: 0.325 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 14:00:14 INFO     local: 	 valid MR: 168.13 | MRR: 0.326 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 14:00:14 INFO     both:  	 valid MR: 154.36 | MRR: 0.333 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 14:00:14 INFO     global:	 test MR: 177.52 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:00:14 INFO     local: 	 test MR: 178.74 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:00:14 INFO     both:  	 test MR: 164.07 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 14:00:42 INFO     	 Epoch 440 | average train loss: 0.0441
+2023-11-03 14:00:43 INFO     	 Epoch 440 | average valid loss: 0.0497
+2023-11-03 14:01:10 INFO     	 Epoch 441 | average train loss: 0.0441
+2023-11-03 14:01:11 INFO     	 Epoch 441 | average valid loss: 0.0491
+2023-11-03 14:01:38 INFO     	 Epoch 442 | average train loss: 0.0441
+2023-11-03 14:01:39 INFO     	 Epoch 442 | average valid loss: 0.0485
+2023-11-03 14:02:07 INFO     	 Epoch 443 | average train loss: 0.0441
+2023-11-03 14:02:07 INFO     	 Epoch 443 | average valid loss: 0.0493
+2023-11-03 14:02:35 INFO     	 Epoch 444 | average train loss: 0.0441
+2023-11-03 14:02:35 INFO     	 Epoch 444 | average valid loss: 0.0496
+2023-11-03 14:03:41 INFO     global:	 valid MR: 165.12 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.506
+2023-11-03 14:03:41 INFO     local: 	 valid MR: 168.13 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 14:03:41 INFO     both:  	 valid MR: 154.37 | MRR: 0.333 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 14:03:41 INFO     global:	 test MR: 177.52 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:03:41 INFO     local: 	 test MR: 178.73 | MRR: 0.323 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:03:41 INFO     both:  	 test MR: 164.07 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 14:03:41 INFO     	 Saving model at epoch 444 in /data/liuruizhou/KGE_model/DVKGE_GL_v24/logs/11_03/FB237/EnsembleModel_10_03_55
+2023-11-03 14:04:09 INFO     	 Epoch 445 | average train loss: 0.0441
+2023-11-03 14:04:09 INFO     	 Epoch 445 | average valid loss: 0.0496
+2023-11-03 14:04:37 INFO     	 Epoch 446 | average train loss: 0.0441
+2023-11-03 14:04:37 INFO     	 Epoch 446 | average valid loss: 0.0496
+2023-11-03 14:05:05 INFO     	 Epoch 447 | average train loss: 0.0441
+2023-11-03 14:05:05 INFO     	 Epoch 447 | average valid loss: 0.0489
+2023-11-03 14:05:33 INFO     	 Epoch 448 | average train loss: 0.0442
+2023-11-03 14:05:34 INFO     	 Epoch 448 | average valid loss: 0.0494
+2023-11-03 14:06:01 INFO     	 Epoch 449 | average train loss: 0.0441
+2023-11-03 14:06:02 INFO     	 Epoch 449 | average valid loss: 0.0493
+2023-11-03 14:07:10 INFO     global:	 valid MR: 165.13 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.506
+2023-11-03 14:07:10 INFO     local: 	 valid MR: 168.15 | MRR: 0.326 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 14:07:10 INFO     both:  	 valid MR: 154.38 | MRR: 0.333 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 14:07:10 INFO     global:	 test MR: 177.51 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:07:10 INFO     local: 	 test MR: 178.72 | MRR: 0.323 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:07:10 INFO     both:  	 test MR: 164.05 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 14:07:37 INFO     	 Epoch 450 | average train loss: 0.0441
+2023-11-03 14:07:38 INFO     	 Epoch 450 | average valid loss: 0.0491
+2023-11-03 14:08:06 INFO     	 Epoch 451 | average train loss: 0.0442
+2023-11-03 14:08:06 INFO     	 Epoch 451 | average valid loss: 0.0497
+2023-11-03 14:08:34 INFO     	 Epoch 452 | average train loss: 0.0442
+2023-11-03 14:08:34 INFO     	 Epoch 452 | average valid loss: 0.0499
+2023-11-03 14:09:02 INFO     	 Epoch 453 | average train loss: 0.0441
+2023-11-03 14:09:02 INFO     	 Epoch 453 | average valid loss: 0.0497
+2023-11-03 14:09:30 INFO     	 Epoch 454 | average train loss: 0.0441
+2023-11-03 14:09:30 INFO     	 Epoch 454 | average valid loss: 0.0488
+2023-11-03 14:10:37 INFO     global:	 valid MR: 165.11 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 14:10:37 INFO     local: 	 valid MR: 168.13 | MRR: 0.326 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 14:10:37 INFO     both:  	 valid MR: 154.36 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 14:10:37 INFO     global:	 test MR: 177.50 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:10:37 INFO     local: 	 test MR: 178.71 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:10:37 INFO     both:  	 test MR: 164.06 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 14:11:05 INFO     	 Epoch 455 | average train loss: 0.0441
+2023-11-03 14:11:05 INFO     	 Epoch 455 | average valid loss: 0.0486
+2023-11-03 14:11:33 INFO     	 Epoch 456 | average train loss: 0.0441
+2023-11-03 14:11:33 INFO     	 Epoch 456 | average valid loss: 0.0492
+2023-11-03 14:12:01 INFO     	 Epoch 457 | average train loss: 0.0441
+2023-11-03 14:12:02 INFO     	 Epoch 457 | average valid loss: 0.0495
+2023-11-03 14:12:29 INFO     	 Epoch 458 | average train loss: 0.0441
+2023-11-03 14:12:30 INFO     	 Epoch 458 | average valid loss: 0.0489
+2023-11-03 14:12:58 INFO     	 Epoch 459 | average train loss: 0.0441
+2023-11-03 14:12:58 INFO     	 Epoch 459 | average valid loss: 0.0492
+2023-11-03 14:14:08 INFO     global:	 valid MR: 165.11 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.506
+2023-11-03 14:14:08 INFO     local: 	 valid MR: 168.13 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 14:14:08 INFO     both:  	 valid MR: 154.36 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 14:14:08 INFO     global:	 test MR: 177.52 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:14:08 INFO     local: 	 test MR: 178.74 | MRR: 0.323 | H@1: 0.232 | H@3: 0.355 | H@10: 0.505
+2023-11-03 14:14:08 INFO     both:  	 test MR: 164.07 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 14:14:36 INFO     	 Epoch 460 | average train loss: 0.0441
+2023-11-03 14:14:36 INFO     	 Epoch 460 | average valid loss: 0.0502
+2023-11-03 14:15:03 INFO     	 Epoch 461 | average train loss: 0.0441
+2023-11-03 14:15:04 INFO     	 Epoch 461 | average valid loss: 0.0490
+2023-11-03 14:15:32 INFO     	 Epoch 462 | average train loss: 0.0441
+2023-11-03 14:15:32 INFO     	 Epoch 462 | average valid loss: 0.0491
+2023-11-03 14:16:00 INFO     	 Epoch 463 | average train loss: 0.0441
+2023-11-03 14:16:00 INFO     	 Epoch 463 | average valid loss: 0.0489
+2023-11-03 14:16:28 INFO     	 Epoch 464 | average train loss: 0.0441
+2023-11-03 14:16:29 INFO     	 Epoch 464 | average valid loss: 0.0496
+2023-11-03 14:17:41 INFO     global:	 valid MR: 165.11 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.506
+2023-11-03 14:17:41 INFO     local: 	 valid MR: 168.16 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 14:17:41 INFO     both:  	 valid MR: 154.38 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 14:17:41 INFO     global:	 test MR: 177.55 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:17:41 INFO     local: 	 test MR: 178.76 | MRR: 0.323 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:17:41 INFO     both:  	 test MR: 164.09 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.513
+2023-11-03 14:18:09 INFO     	 Epoch 465 | average train loss: 0.0442
+2023-11-03 14:18:09 INFO     	 Epoch 465 | average valid loss: 0.0493
+2023-11-03 14:18:37 INFO     	 Epoch 466 | average train loss: 0.0441
+2023-11-03 14:18:37 INFO     	 Epoch 466 | average valid loss: 0.0491
+2023-11-03 14:19:05 INFO     	 Epoch 467 | average train loss: 0.0441
+2023-11-03 14:19:05 INFO     	 Epoch 467 | average valid loss: 0.0494
+2023-11-03 14:19:34 INFO     	 Epoch 468 | average train loss: 0.0441
+2023-11-03 14:19:34 INFO     	 Epoch 468 | average valid loss: 0.0492
+2023-11-03 14:20:03 INFO     	 Epoch 469 | average train loss: 0.0441
+2023-11-03 14:20:03 INFO     	 Epoch 469 | average valid loss: 0.0495
+2023-11-03 14:21:16 INFO     global:	 valid MR: 165.12 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 14:21:16 INFO     local: 	 valid MR: 168.20 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 14:21:16 INFO     both:  	 valid MR: 154.39 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 14:21:16 INFO     global:	 test MR: 177.54 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:21:16 INFO     local: 	 test MR: 178.78 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:21:16 INFO     both:  	 test MR: 164.09 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 14:21:44 INFO     	 Epoch 470 | average train loss: 0.0442
+2023-11-03 14:21:45 INFO     	 Epoch 470 | average valid loss: 0.0489
+2023-11-03 14:22:12 INFO     	 Epoch 471 | average train loss: 0.0441
+2023-11-03 14:22:13 INFO     	 Epoch 471 | average valid loss: 0.0496
+2023-11-03 14:22:41 INFO     	 Epoch 472 | average train loss: 0.0441
+2023-11-03 14:22:41 INFO     	 Epoch 472 | average valid loss: 0.0495
+2023-11-03 14:23:09 INFO     	 Epoch 473 | average train loss: 0.0441
+2023-11-03 14:23:09 INFO     	 Epoch 473 | average valid loss: 0.0496
+2023-11-03 14:23:37 INFO     	 Epoch 474 | average train loss: 0.0441
+2023-11-03 14:23:37 INFO     	 Epoch 474 | average valid loss: 0.0487
+2023-11-03 14:24:51 INFO     global:	 valid MR: 165.11 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.506
+2023-11-03 14:24:51 INFO     local: 	 valid MR: 168.17 | MRR: 0.327 | H@1: 0.237 | H@3: 0.358 | H@10: 0.508
+2023-11-03 14:24:51 INFO     both:  	 valid MR: 154.37 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 14:24:51 INFO     global:	 test MR: 177.54 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:24:51 INFO     local: 	 test MR: 178.76 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:24:51 INFO     both:  	 test MR: 164.09 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.513
+2023-11-03 14:25:18 INFO     	 Epoch 475 | average train loss: 0.0441
+2023-11-03 14:25:18 INFO     	 Epoch 475 | average valid loss: 0.0491
+2023-11-03 14:25:46 INFO     	 Epoch 476 | average train loss: 0.0441
+2023-11-03 14:25:47 INFO     	 Epoch 476 | average valid loss: 0.0494
+2023-11-03 14:26:15 INFO     	 Epoch 477 | average train loss: 0.0441
+2023-11-03 14:26:15 INFO     	 Epoch 477 | average valid loss: 0.0493
+2023-11-03 14:26:42 INFO     	 Epoch 478 | average train loss: 0.0441
+2023-11-03 14:26:43 INFO     	 Epoch 478 | average valid loss: 0.0486
+2023-11-03 14:27:11 INFO     	 Epoch 479 | average train loss: 0.0441
+2023-11-03 14:27:11 INFO     	 Epoch 479 | average valid loss: 0.0496
+2023-11-03 14:28:23 INFO     global:	 valid MR: 165.10 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 14:28:23 INFO     local: 	 valid MR: 168.16 | MRR: 0.327 | H@1: 0.236 | H@3: 0.358 | H@10: 0.508
+2023-11-03 14:28:23 INFO     both:  	 valid MR: 154.37 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 14:28:23 INFO     global:	 test MR: 177.53 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:28:23 INFO     local: 	 test MR: 178.76 | MRR: 0.323 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:28:23 INFO     both:  	 test MR: 164.08 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.513
+2023-11-03 14:28:51 INFO     	 Epoch 480 | average train loss: 0.0442
+2023-11-03 14:28:51 INFO     	 Epoch 480 | average valid loss: 0.0489
+2023-11-03 14:29:18 INFO     	 Epoch 481 | average train loss: 0.0441
+2023-11-03 14:29:19 INFO     	 Epoch 481 | average valid loss: 0.0493
+2023-11-03 14:29:47 INFO     	 Epoch 482 | average train loss: 0.0441
+2023-11-03 14:29:47 INFO     	 Epoch 482 | average valid loss: 0.0494
+2023-11-03 14:30:15 INFO     	 Epoch 483 | average train loss: 0.0441
+2023-11-03 14:30:15 INFO     	 Epoch 483 | average valid loss: 0.0490
+2023-11-03 14:30:43 INFO     	 Epoch 484 | average train loss: 0.0441
+2023-11-03 14:30:44 INFO     	 Epoch 484 | average valid loss: 0.0495
+2023-11-03 14:31:56 INFO     global:	 valid MR: 165.10 | MRR: 0.324 | H@1: 0.235 | H@3: 0.354 | H@10: 0.505
+2023-11-03 14:31:56 INFO     local: 	 valid MR: 168.16 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 14:31:56 INFO     both:  	 valid MR: 154.37 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.513
+2023-11-03 14:31:56 INFO     global:	 test MR: 177.54 | MRR: 0.321 | H@1: 0.230 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:31:56 INFO     local: 	 test MR: 178.76 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:31:56 INFO     both:  	 test MR: 164.09 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 14:32:23 INFO     	 Epoch 485 | average train loss: 0.0441
+2023-11-03 14:32:24 INFO     	 Epoch 485 | average valid loss: 0.0493
+2023-11-03 14:32:52 INFO     	 Epoch 486 | average train loss: 0.0441
+2023-11-03 14:32:52 INFO     	 Epoch 486 | average valid loss: 0.0492
+2023-11-03 14:33:20 INFO     	 Epoch 487 | average train loss: 0.0441
+2023-11-03 14:33:20 INFO     	 Epoch 487 | average valid loss: 0.0494
+2023-11-03 14:33:48 INFO     	 Epoch 488 | average train loss: 0.0441
+2023-11-03 14:33:48 INFO     	 Epoch 488 | average valid loss: 0.0491
+2023-11-03 14:34:16 INFO     	 Epoch 489 | average train loss: 0.0441
+2023-11-03 14:34:17 INFO     	 Epoch 489 | average valid loss: 0.0492
+2023-11-03 14:35:30 INFO     global:	 valid MR: 165.10 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 14:35:30 INFO     local: 	 valid MR: 168.16 | MRR: 0.327 | H@1: 0.236 | H@3: 0.358 | H@10: 0.508
+2023-11-03 14:35:30 INFO     both:  	 valid MR: 154.37 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.514
+2023-11-03 14:35:30 INFO     global:	 test MR: 177.53 | MRR: 0.321 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:35:30 INFO     local: 	 test MR: 178.76 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:35:30 INFO     both:  	 test MR: 164.09 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.513
+2023-11-03 14:35:57 INFO     	 Epoch 490 | average train loss: 0.0441
+2023-11-03 14:35:58 INFO     	 Epoch 490 | average valid loss: 0.0489
+2023-11-03 14:36:25 INFO     	 Epoch 491 | average train loss: 0.0441
+2023-11-03 14:36:26 INFO     	 Epoch 491 | average valid loss: 0.0489
+2023-11-03 14:36:54 INFO     	 Epoch 492 | average train loss: 0.0442
+2023-11-03 14:36:54 INFO     	 Epoch 492 | average valid loss: 0.0492
+2023-11-03 14:37:22 INFO     	 Epoch 493 | average train loss: 0.0440
+2023-11-03 14:37:22 INFO     	 Epoch 493 | average valid loss: 0.0497
+2023-11-03 14:37:50 INFO     	 Epoch 494 | average train loss: 0.0441
+2023-11-03 14:37:51 INFO     	 Epoch 494 | average valid loss: 0.0492
+2023-11-03 14:39:05 INFO     global:	 valid MR: 165.11 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 14:39:05 INFO     local: 	 valid MR: 168.16 | MRR: 0.327 | H@1: 0.237 | H@3: 0.358 | H@10: 0.508
+2023-11-03 14:39:05 INFO     both:  	 valid MR: 154.37 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.514
+2023-11-03 14:39:05 INFO     global:	 test MR: 177.53 | MRR: 0.322 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:39:05 INFO     local: 	 test MR: 178.76 | MRR: 0.324 | H@1: 0.233 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:39:05 INFO     both:  	 test MR: 164.08 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.512
+2023-11-03 14:39:32 INFO     	 Epoch 495 | average train loss: 0.0441
+2023-11-03 14:39:33 INFO     	 Epoch 495 | average valid loss: 0.0493
+2023-11-03 14:40:01 INFO     	 Epoch 496 | average train loss: 0.0441
+2023-11-03 14:40:01 INFO     	 Epoch 496 | average valid loss: 0.0495
+2023-11-03 14:40:29 INFO     	 Epoch 497 | average train loss: 0.0441
+2023-11-03 14:40:29 INFO     	 Epoch 497 | average valid loss: 0.0492
+2023-11-03 14:40:57 INFO     	 Epoch 498 | average train loss: 0.0441
+2023-11-03 14:40:57 INFO     	 Epoch 498 | average valid loss: 0.0486
+2023-11-03 14:41:26 INFO     	 Epoch 499 | average train loss: 0.0442
+2023-11-03 14:41:26 INFO     	 Epoch 499 | average valid loss: 0.0487
+2023-11-03 14:42:43 INFO     global:	 valid MR: 165.11 | MRR: 0.324 | H@1: 0.235 | H@3: 0.355 | H@10: 0.505
+2023-11-03 14:42:43 INFO     local: 	 valid MR: 168.17 | MRR: 0.327 | H@1: 0.236 | H@3: 0.359 | H@10: 0.508
+2023-11-03 14:42:43 INFO     both:  	 valid MR: 154.37 | MRR: 0.332 | H@1: 0.242 | H@3: 0.364 | H@10: 0.514
+2023-11-03 14:42:43 INFO     global:	 test MR: 177.53 | MRR: 0.321 | H@1: 0.231 | H@3: 0.353 | H@10: 0.504
+2023-11-03 14:42:43 INFO     local: 	 test MR: 178.78 | MRR: 0.324 | H@1: 0.232 | H@3: 0.356 | H@10: 0.505
+2023-11-03 14:42:43 INFO     both:  	 test MR: 164.09 | MRR: 0.329 | H@1: 0.237 | H@3: 0.363 | H@10: 0.513
+2023-11-03 14:42:43 INFO     	 Optimization finished
+2023-11-03 14:42:43 INFO     	 Loading best model saved at epoch 444
