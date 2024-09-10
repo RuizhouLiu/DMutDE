@@ -100,7 +100,7 @@ def process_dataset(path):
 
 
 if __name__ == "__main__":
-    data_path = os.environ["DATA_PATH"]
+    data_path = './data'
     for dataset_name in os.listdir(data_path):
         dataset_path = os.path.join(data_path, dataset_name)
         dataset_examples, dataset_filters = process_dataset(dataset_path)

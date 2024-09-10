@@ -10,8 +10,6 @@ from copy import deepcopy
 import models
 import os
 from models.base import KGModel
-from models.complex import *
-from models.euclidean import *
 from utils.euclidean import givens_rotations, givens_reflection
 from utils.hyperbolic import mobius_add, expmap0, project, hyp_distance_multi_c, expmapP, expmapH, projectH
 

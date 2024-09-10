@@ -153,7 +153,7 @@ def train(args):
     logging.info("Saving logs in: {}".format(save_dir))
 
     # create dataset
-    dataset_path = os.path.join("./datasets/data", args.dataset)
+    dataset_path = os.path.join("./data", args.dataset)
     dataset = KGDataset(dataset_path, args.debug)
     args.sizes = dataset.get_shape()
 
