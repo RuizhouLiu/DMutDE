@@ -2,6 +2,8 @@
 
 Use `pip install -r requirements.txt` to install required packages.
 
+Download dataset by `sh datasets/download.sh`.
+
 `sh run_FB15K-237.sh` to reproduce the experimental results of `RotH (AttH)` on FB15K-237 dataset.
 
 ## Citation
