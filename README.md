@@ -1,6 +1,6 @@
 ## DMutDE
 
-Use `pip install -r requirements.txt` to install required packages. (Install PyTorch 2.x version please [https://pytorch.org/get-started/locally/]) 
+Use `pip install -r requirements.txt` to install required packages. (Please install PyTorch 2.x version  [https://pytorch.org/get-started/locally/]) 
 
 1. `cd` to top-level folder
 2. Download dataset by `sh datasets/download.sh`.
