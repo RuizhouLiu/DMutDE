@@ -7,6 +7,9 @@ Use `pip install -r requirements.txt` to install required packages.
 3. `python datasets/process.py`
 
 4. `sh run_FB15K-237.sh` to reproduce the experimental results of `RotH (AttH)` on FB15K-237 dataset.
+5. `sh run_WN18RR.sh` to reproduce the experimental results of `RotH (RefH)` on WN18RR dataset.
+
+6. you can replace `--global_model` and `--local_model` with other KGE model name, like `AttH`, `RotH`, `RefH`, `LocAttH`, `LocRotH` and `LocRefH` etc.
 
 ## Citation
 
